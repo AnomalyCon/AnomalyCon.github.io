@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="pingback" href="https://www.anomalycon.com/xmlrpc.php">
+		<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>2014 Artists &#8211; AnomalyCon</title>
+<link rel='stylesheet' id='genericons-css'  href='https://www.anomalycon.com/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-style-css'  href='https://www.anomalycon.com/wp-content/themes/twentysixteen/style.css?ver=4.8.1' type='text/css' media='all' />
+<style id='twentysixteen-style-inline-css' type='text/css'>
+
+		/* Custom Page Background Color */
+		.site {
+			background-color: #f8ecc2;
+		}
+
+		mark,
+		ins,
+		button,
+		button[disabled]:hover,
+		button[disabled]:focus,
+		input[type="button"],
+		input[type="button"][disabled]:hover,
+		input[type="button"][disabled]:focus,
+		input[type="reset"],
+		input[type="reset"][disabled]:hover,
+		input[type="reset"][disabled]:focus,
+		input[type="submit"],
+		input[type="submit"][disabled]:hover,
+		input[type="submit"][disabled]:focus,
+		.menu-toggle.toggled-on,
+		.menu-toggle.toggled-on:hover,
+		.menu-toggle.toggled-on:focus,
+		.pagination .prev,
+		.pagination .next,
+		.pagination .prev:hover,
+		.pagination .prev:focus,
+		.pagination .next:hover,
+		.pagination .next:focus,
+		.pagination .nav-links:before,
+		.pagination .nav-links:after,
+		.widget_calendar tbody a,
+		.widget_calendar tbody a:hover,
+		.widget_calendar tbody a:focus,
+		.page-links a,
+		.page-links a:hover,
+		.page-links a:focus {
+			color: #f8ecc2;
+		}
+
+		@media screen and (min-width: 56.875em) {
+			.main-navigation ul ul li {
+				background-color: #f8ecc2;
+			}
+
+			.main-navigation ul ul:after {
+				border-top-color: #f8ecc2;
+				border-bottom-color: #f8ecc2;
+			}
+		}
+	
+
+		/* Custom Link Color */
+		.menu-toggle:hover,
+		.menu-toggle:focus,
+		a,
+		.main-navigation a:hover,
+		.main-navigation a:focus,
+		.dropdown-toggle:hover,
+		.dropdown-toggle:focus,
+		.social-navigation a:hover:before,
+		.social-navigation a:focus:before,
+		.post-navigation a:hover .post-title,
+		.post-navigation a:focus .post-title,
+		.tagcloud a:hover,
+		.tagcloud a:focus,
+		.site-branding .site-title a:hover,
+		.site-branding .site-title a:focus,
+		.entry-title a:hover,
+		.entry-title a:focus,
+		.entry-footer a:hover,
+		.entry-footer a:focus,
+		.comment-metadata a:hover,
+		.comment-metadata a:focus,
+		.pingback .comment-edit-link:hover,
+		.pingback .comment-edit-link:focus,
+		.comment-reply-link,
+		.comment-reply-link:hover,
+		.comment-reply-link:focus,
+		.required,
+		.site-info a:hover,
+		.site-info a:focus {
+			color: #5f3913;
+		}
+
+		mark,
+		ins,
+		button:hover,
+		button:focus,
+		input[type="button"]:hover,
+		input[type="button"]:focus,
+		input[type="reset"]:hover,
+		input[type="reset"]:focus,
+		input[type="submit"]:hover,
+		input[type="submit"]:focus,
+		.pagination .prev:hover,
+		.pagination .prev:focus,
+		.pagination .next:hover,
+		.pagination .next:focus,
+		.widget_calendar tbody a,
+		.page-links a:hover,
+		.page-links a:focus {
+			background-color: #5f3913;
+		}
+
+		input[type="date"]:focus,
+		input[type="time"]:focus,
+		input[type="datetime-local"]:focus,
+		input[type="week"]:focus,
+		input[type="month"]:focus,
+		input[type="text"]:focus,
+		input[type="email"]:focus,
+		input[type="url"]:focus,
+		input[type="password"]:focus,
+		input[type="search"]:focus,
+		input[type="tel"]:focus,
+		input[type="number"]:focus,
+		textarea:focus,
+		.tagcloud a:hover,
+		.tagcloud a:focus,
+		.menu-toggle:hover,
+		.menu-toggle:focus {
+			border-color: #5f3913;
+		}
+
+		@media screen and (min-width: 56.875em) {
+			.main-navigation li:hover > a,
+			.main-navigation li.focus > a {
+				color: #5f3913;
+			}
+		}
+	
+</style>
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='twentysixteen-ie-css'  href='https://www.anomalycon.com/wp-content/themes/twentysixteen/css/ie.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentysixteen-ie8-css'  href='https://www.anomalycon.com/wp-content/themes/twentysixteen/css/ie8.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentysixteen-ie7-css'  href='https://www.anomalycon.com/wp-content/themes/twentysixteen/css/ie7.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.anomalycon.com/wp-content/themes/twentysixteen/js/html5.js?ver=3.7.3'></script>
+<![endif]-->
+<link rel="canonical" href="https://www.anomalycon.com/anomalycon-2014/2014-artists/" />
+<link rel="alternate" type="application/json+oembed" href="https://www.anomalycon.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.anomalycon.com%2Fanomalycon-2014%2F2014-artists%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.anomalycon.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.anomalycon.com%2Fanomalycon-2014%2F2014-artists%2F&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+			<style type="text/css" id="twentysixteen-header-css">
+		.site-branding {
+			margin: 0 auto 0 0;
+		}
+
+		.site-branding .site-title,
+		.site-description {
+			clip: rect(1px, 1px, 1px, 1px);
+			position: absolute;
+		}
+	</style>
+	<link rel="icon" href="https://www.anomalycon.com/wp-content/uploads/2016/03/favicon.gif" sizes="32x32" />
+<link rel="icon" href="https://www.anomalycon.com/wp-content/uploads/2016/03/favicon.gif" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.anomalycon.com/wp-content/uploads/2016/03/favicon.gif" />
+<meta name="msapplication-TileImage" content="https://www.anomalycon.com/wp-content/uploads/2016/03/favicon.gif" />
+</head>
+
+<body class="page-template-default page page-id-162 page-child parent-pageid-339 group-blog">
+<div id="page" class="site">
+	<div class="site-inner">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<header id="masthead" class="site-header" role="banner">
+			<div class="site-header-main">
+				<div class="site-branding">
+					
+											<p class="site-title"><a href="https://www.anomalycon.com/" rel="home">AnomalyCon</a></p>
+											<p class="site-description">Colorado&#039;s First and Former Steampunk and Alternate History Convention</p>
+									</div><!-- .site-branding -->
+
+							</div><!-- .site-header-main -->
+
+											<div class="header-image">
+					<a href="https://www.anomalycon.com/" rel="home">
+						<img src="https://www.anomalycon.com/wp-content/uploads/2017/07/AnomalyCon.png" srcset="https://www.anomalycon.com/wp-content/uploads/2017/07/AnomalyCon-300x75.png 300w, https://www.anomalycon.com/wp-content/uploads/2017/07/AnomalyCon-768x192.png 768w, https://www.anomalycon.com/wp-content/uploads/2017/07/AnomalyCon.png 800w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 81vw, (max-width: 1362px) 88vw, 1200px" width="800" height="200" alt="AnomalyCon">
+					</a>
+				</div><!-- .header-image -->
+					</header><!-- .site-header -->
+
+		<div id="content" class="site-content">
+
+<div id="primary" class="content-area">
+	<main id="main" class="site-main" role="main">
+		
+<article id="post-162" class="post-162 page type-page status-publish hentry">
+	<header class="entry-header">
+		<h1 class="entry-title">2014 Artists</h1>	</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		<h2>Mike Cervantes</h2>
+<p><img class="alignleft" src="/wp-content/uploads/rsz_mike.jpg" alt="" />His full given name is Miguel Javier Cervantes Jr. But you can just call him Mike. He holds a bachelor&#8217;s of Creative Writing from The University of Texas at El Paso. He&#8217;s a life long comic book, animation, and video game enthusiast, and there isn&#8217;t a trope, cliche, or storyline wrinkle that ever escapes his knowledge. Currently, he&#8217;s writing his own online fiction series, The Scarlet Derby &amp; Midnight Jay, which you can read at thescarletderby.tumblr.com</p>
+<h2>Robert Elrod</h2>
+<p><img class="alignleft" src="/wp-content/uploads/robert_elrod_anomalycon.jpg" alt="" /><a href="http://www.robertelrodllc.com/">Robert</a> is a self-taught artist who works with a variety of mediums including pencil, color pencil, ink, watercolor, gouache, acrylic and digital. Robert’s artwork has appeared on the covers of several novels and anthologies from small-press horror authors and publishers, including <a href="http://www.permutedpress.com/" rel="noopener">Permuted Press</a>. <i>Tickling A Dead Man: Stories About George</i> is his self-published comic book in which he relentlessly tortures his misanthropic title character by forcing him to face his deepest fears and anxieties. His comics also appear within the pages of the &#8220;Best New Zombie Tales&#8221; series from <a href="http://booksofthedead.blogspot.com/">Books of the Dead Press</a>. He’s contributed pinup art to publications by Bluewater Comics, <a href="http://creatorsedgepress.com/">Creator’s Edge Press</a>, <a href="http://www.angrydogpress.net/">Angry Dog Press</a>, <a href="http://www.britishfantasysociety.org/">British Fantasy Society</a>, <a href="http://www.lovecraftezine.com/">Lovecraft eZine</a>, The Big Adios, and <a href="http://www.thisishorror.co.uk/">This Is Horror</a>.</p>
+<h2>J Zoe Frasure</h2>
+<p><img class="alignleft" src="/wp-content/uploads/frasure.jpg" alt="" />J Zoe Frasure began her career as an artist at Walt Disney World in Orlando, FL. Bent on pursuing her career, she returned to Ohio to achieve her art Degree. Eventually, she found her way to Los Angeles, working in the dark side of Hollywood, as a storyboard and concept artist in indie horror on such films as the &#8220;Hatchet&#8221; movie series and &#8220;The Collector.&#8221; A diverse artist, Zoe has spent the past 6 years designing collectibles and creating original souvenirs for such notable clients as Disney, Hard Rock Cafe and Sea World. She finds a strange balance between making cute Disney characters by day and planning out slashing people to bits by night.<br />
+On the lighter side, Zoe has made a reputation in the advertising world creating storyboards for commercials for such names as Cindy Crawford Home, Rooms to Go and Ashley Furniture. Her first book cover, &#8220;Tennis Dates&#8221; premiered in 2008. Since 2004, Zoe has provided the artwork for the infamous Mr. Bones Pumpkin Patch in Beverly Hills, a mecca for celebrity sitings.<br />
+<a href="http://www.mrbonespumpkinpatch.com/">http://www.mrbonespumpkinpatch.com/</a>, <a href="http://www.imdb.com/name/nm1580281/">Film Credit</a>, <a href="http://onlinegalleries.com.au/users/ZoeEntertainment/">Art portfolio</a></p>
+<h2>Julie Hamilton</h2>
+<p><img class="alignleft" src="/wp-content/uploads/rsz_julie_hamilton.jpg" alt="" />Julie Hamilton is a graphic designer, digital artist, Denver native and all-around crafty person. With an eclectic professional background which includes fashion design, costuming, and CAD drafting, she brings a unique perspective to all her projects. In addition to offering professional design services, she also sells a line of posters, mini prints, stationery, collectibles and other fun miscellany through her company BottleCap Graphics Ltd., all while under the close supervision of Sasha the studio cat. See what she&#8217;s been up to lately at www.bottlecap-graphics.com.</p>
+<h2>Ash Helms</h2>
+<p><img class="alignleft" src="/wp-content/uploads/rsz_ashhelms.jpg" alt="" />Ash Helms is an illustrator and dancer working in Denver. When he isn&#8217;t drawing pretty pictures or teaching people how to dance, he spends his time with his two cats, whose presence he tolerates with quiet dignity.</p>
+<h2>Aria Keehn</h2>
+<p><img class="alignleft" src="/wp-content/uploads/AriaII.jpg" alt="" />Aria is a local artist from Denver (though born in the Otherworlds) she was mostly raised in Colorado. Aside from a brief portion in a rainy Washington town as a squawking infant. Which remains mostly irrelevant. She began drawing as soon as she could hold a crayon and has not stopped the madness since.<br />
+In her art, she likes to reflect the monsters she meets throughout the day and their naturally unnatural habitats. Swirling skies with beasts sprouting clockwork from their bodies, deer manifesting from trees and dragons hatching from the moon are just some of the common visuals found in her work which she often refers to as surrealist in nature.<br />
+In addition to the watercolour and pastel she generally paints in, she also enjoys a wide variety of other visual art forms including the hand binding of books and the weaving of small creatures from yarn and wire known as ‘Yarnlings’<br />
+These and more can be viewed over various reaches of the internet under her art handle ShePaintsWithBlood on <a href="http://shepaintswithblood.deviantart.com/">deviantART</a>, <a href="https://www.facebook.com/ShePaintsWithBlood">Facebook</a> and <a href="http://shepaintswithblood.tumblr.com/">Tumblr</a>. When she has not locked herself up in the Otherworlds, she can also be found selling and showing her art live in Downtown Denver on First Fridays.</p>
+<h2>Chaz Kemp</h2>
+<p><img class="alignleft" src="/wp-content/uploads/ChazKemp.jpg" alt="" />Chaz Kemp is an Art Nouveau illustrator living in Denver, CO. He uses modern, digital techniques to create his steampunk, horror and fantasy pieces and he was nominated for a Bram Stoker award in 2012. When he&#8217;s not performing with his band Pandora Celtica, he&#8217;s working hard on a top secret project with up-and-coming author Carolyn Fritz! You can visit him on the web at <a href="http://www.chazkemp.com/">www.ChazKemp.com</a> and you can also hang out with him on his Facebook page: Chaz Kemp Illustration&#8230; if you dare!</p>
+<h2>Dustin Leitzel</h2>
+<p><img class="alignleft" src="/wp-content/uploads/dustinleitzel.jpg" alt="" />Pharmacist by day and photographer by night. Based in Denver, Colorado.<br />
+Initially my focus was on landscapes and architecture, however over the past 4 years I have really enjoyed creative portraiture/cosplay photography. The challenge of emphasizing both costume and model has helped me evolve the way I approach all forms of photography.</p>
+<h2>Sarah Menzel</h2>
+<p><img class="alignleft" src="/wp-content/uploads/sarahmenzel_0.jpg" alt="" />Sarah is an illustrator based in the glorious suburbs of Denver. Having a passion for visual storytelling, she has been drawing nonstop since childhood. With a BFA in Sequential Art from the Savannah College of Art and Design, she has worked professionally as an illustrator, graphic novelist, and storyboard artist for animation. Currently she is working on visual development for Inherent Games, a company that strives to create fun language learning apps. If you can’t find Sarah compulsorily creating something, she’s probably at a nerdy convention somewhere or watching Korean soap operas with her dogs.</p>
+<h2>Jason Montoya</h2>
+<p><img class="alignleft" src="/wp-content/uploads/rsz_jason_montoya_bio_pic.jpg" alt="" />CJason is a Colorado Native, born and raised in Colorado Springs. He is an artist who works with a variety of mediums including watercolor, gouache, pencil, color pencil, ink, oil, acrylic, airbrush, and digital.<br />
+He is the founder of Themis Comix and is currently working on his creator owned comic series Baron Von Saturday’s Tales From Beyond, as well as working with author Christopher M. Salas to bring the pages of his novel’s to life as graphic novels, the Abigail: Curses and Demons series. Jason does it all: penciler, inker, letter, co-plotter, editor, designer and writer. He has been published in various publications ranging from super hero comics to Horror and Sci Fi. You can keep up with Jason on his blog.<br />
+http://jmontoyaart.blogspot.com/<br />
+And stay up to date with all things Themis on the Themis Comix blog.<br />
+http://themiscomix.blogspot.com/</p>
+<h2>John-Michael O&#8217;Brien</h2>
+<p><img class="alignleft" src="/wp-content/uploads/cameraninja.jpg" alt="" />For over six years John-Michael’s one man photographic operation, the Camera NInjas, has been doing cosplay photography on scene, in the studio, and at conventions throughout Colorado and beyond. A veteran of over 20 conventions as a photographer, he strives to bring a creative eye with a technical basis to the art and science of cosplay photography.</p>
+<p>When he’s not behind the lens he likes to focus on his other hobbies including drawing, electronics, and music.</p>
+<h2>Kathryn S Renta</h2>
+<p><img class="alignleft" src="/wp-content/uploads/KSR_headshot.jpg" alt="" />Kathryn S. Renta is an award winning artist and recent immigrant to Colorado. She grew up in California with a vivid imagination and unquenchable curiosity. With an intense fear of blank pages, she set out to fill every single one she could. That included sketchbooks, notebooks, journals, random bits of paper and the wall behind her childhood bed.<br />
+In addition to 15+ years as a graphic artist and illustrator, her work includes over a decade of lettering comics for Viz Media, Dark Horse Comics, DC Comics and several independent publishers.<br />
+Her art is mostly a blend of anime/manga style with a little bit of realism injected into her pieces. Copic markers are her current favorite medium of choice. She has played with water color, watercolor pencils, pencils, and many other artsy mediums and has mixed them all together at times.</p>
+<h2>Sarin Tatroe</h2>
+<p><img class="alignleft" src="/wp-content/uploads/SarinTatroe.jpg" alt="" />Sarin is a local artist living in Thornton who has been drawing on and off since she can remember. She is currently trying her hand out as a freelance artist after bidding the corporate world farewell to be a stay at home mom. When not &#8220;arting&#8221;, as she calls it, she loves to daydream and role play in between chasing her pre-schooler around the house.<br />
+Her art is mostly a blend of anime/manga style with a little bit of realism injected into her pieces. Copic markers are her current favorite medium of choice. She has played with water color, watercolor pencils, pencils, and many other artsy mediums and has mixed them all together at times.<br />
+She likes to wonder what stories people will come up with when diving into her art since she believes that all art has a story. Sarin is currently working on a few personal projects that seem to never have an end or a definite beginning. Her works may be viewed at <a href="http://sariochan.deviantart.com">deviantArt</a>. More recent works are usually able to be viewed at local conventions.</p>
+<h2>Sean Tiffany</h2>
+<p><img class="alignleft" src="/wp-content/uploads/SeanTiffany.jpg" alt="" />Sean Tiffany lives in Boulder, Colorado and has been a working artist and illustrator for the last twenty years.<br />
+He has worked for companies such as Marvel Comics, Time Magazine, Sports Illustrated Magazine, Stone Arch Books, and The Geppetto Advertising Group. In 1998 he wrote, drew, and self published his first comic book called Exit 6 which earned him a Russ Manning Most Promising Newcomer Award nomination.<br />
+A freelance illustration career has kept him away from comics for years but his love for the medium just wouldn’t go away.<br />
+Sean’s newest project, <a href="http://oilcandrive.com/">OilCan Drive</a>, combines a web comic, print comics, videos, art, and music.<br />
+You can find his projects at www.oilcandrive.com, www.seantiffany.com and www.seantiffany.blogspot.com.</p>
+<h2>Stan Yan</h2>
+<p><img class="alignleft" src="/wp-content/uploads/Artist_StanYan.jpg" alt="" />Stan Yan grew up in Denver, Colorado and went to school at the University of Colorado in Boulder where he got his bachelor’s degree in accounting. Due to the lack of sex-for-recruiting for accounting students, Yan’s life took the tragic turn into sales for the securities industry, where he wallowed in ethical poverty on-and-off for thirteen years.<br />
+Yan takes his frustrations out by penning graphic novels such as The Wang. In 2005, Yan has gave up on financial security and become a full-time freelance cartoonist, illustrating SubCulture for Ape Entertaiment and Action Lab Danger Zone, creating comic strips for the financial and sales industry, drawing zombie caricatures, and picking up odd illustration and teaching jobs when folks are feeling agonizing pity for him. Stan teaches Summer camps, after school programs, workshops, and helped to develop a degree program in graphic storytelling as an adjunct faculty member at the Community College of Aurora. He writes and color the <a href="http://stanyan.me/?p=12">REVVVelations</a> webstrip. Recent credits include illustrating the comic book &#8220;The Adventures of Health Team 4&#8221; for Kaiser Permanente; writing Vincent Price Presents #33 for Bluewater Productions; and Yan &#8220;Food Fright&#8221; for the Melting Pot restaurant.<br />
+Current projects, inquiries, and complaints can be lodged at http://stanyan.me/</p>
+	</div><!-- .entry-content -->
+
+	
+</article><!-- #post-## -->
+
+	</main><!-- .site-main -->
+
+	
+</div><!-- .content-area -->
+
+
+	<aside id="secondary" class="sidebar widget-area" role="complementary">
+		<section id="nav_menu-3" class="widget widget_nav_menu"><h2 class="widget-title">AnomalyCon</h2><div class="menu-anomalycon-container"><ul id="menu-anomalycon" class="menu"><li id="menu-item-1194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1194"><a href="https://www.anomalycon.com/anomalycon-2011/">AnomalyCon 2011</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1195"><a href="https://www.anomalycon.com/anomalycon-2011/2011-guests/">2011 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-523"><a href="https://www.anomalycon.com/anomalycon-2012/">AnomalyCon 2012</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1155"><a href="https://www.anomalycon.com/anomalycon-2012/2012-guests/">2012 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-522"><a href="https://www.anomalycon.com/anomalycon-2013/">AnomalyCon 2013</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1156"><a href="https://www.anomalycon.com/anomalycon-2013/2013-guests/">2013 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-526" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-has-children menu-item-526"><a href="https://www.anomalycon.com/anomalycon-2014/">AnomalyCon 2014</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1164"><a href="https://www.anomalycon.com/anomalycon-2014/2014-guests/">2014 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-525"><a href="https://www.anomalycon.com/anomalycon-2015/">AnomalyCon 2015</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1171"><a href="https://www.anomalycon.com/anomalycon-2015/2015-guests/">2015 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-524"><a href="https://www.anomalycon.com/anomalycon-2016/">AnomalyCon 2016</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1176"><a href="https://www.anomalycon.com/anomalycon-2016/2016-guests/">2016 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-594"><a href="https://www.anomalycon.com/anomalycon-2017/">AnomalyCon 2017</a>
+<ul  class="sub-menu">
+	<li id="menu-item-595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-595"><a href="https://www.anomalycon.com/anomalycon-2017/2017-guests/">2017 Guests</a></li>
+	<li id="menu-item-520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-520"><a href="https://www.anomalycon.com/anomalycon-2017/contests/">2017 Contests</a></li>
+</ul>
+</li>
+<li id="menu-item-509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-509"><a href="https://www.anomalycon.com/mission/">Our Mission</a></li>
+<li id="menu-item-1212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1212"><a href="https://www.anomalycon.com/policies/">Our Policies</a></li>
+</ul></div></section><section id="linkcat-3" class="widget widget_links"><h2 class="widget-title">Social Media</h2>
+	<ul class='xoxo blogroll'>
+<li><a href="https://www.facebook.com/AnomalyCon" rel="me">Facebook</a></li>
+<li><a href="https://plus.google.com/+Anomalycon" rel="me">Google+</a></li>
+<li><a href="https://www.instagram.com/anomalyconofficial/" rel="me">Instagram</a></li>
+<li><a href="http://anomalycon.tumblr.com/" rel="me">tumblr.</a></li>
+<li><a href="https://twitter.com/anomalycon" rel="me">Twitter</a></li>
+<li><a href="http://www.youtube.com/user/AnomalyCon" rel="me">YouTube</a></li>
+
+	</ul>
+</section>
+	</aside><!-- .sidebar .widget-area -->
+
+		</div><!-- .site-content -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+			
+			
+			<div class="site-info">
+								<span class="site-title"><a href="https://www.anomalycon.com/" rel="home">AnomalyCon</a></span>
+				<a href="https://wordpress.org/">Proudly powered by WordPress</a>
+			</div><!-- .site-info -->
+		</footer><!-- .site-footer -->
+	</div><!-- .site-inner -->
+</div><!-- .site -->
+
+<script type='text/javascript' src='https://www.anomalycon.com/wp-content/themes/twentysixteen/js/skip-link-focus-fix.js?ver=20160816'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.anomalycon.com/wp-content/themes/twentysixteen/js/functions.js?ver=20160816'></script>
+<script type='text/javascript' src='https://www.anomalycon.com/wp-includes/js/wp-embed.min.js?ver=4.8.1'></script>
+</body>
+</html>

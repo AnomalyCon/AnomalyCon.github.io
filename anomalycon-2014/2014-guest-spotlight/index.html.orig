@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+		<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>2014 Guest Spotlight &#8211; AnomalyCon</title>
+<link rel='stylesheet' id='genericons-css'  href='https://www.anomalycon.com/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-style-css'  href='https://www.anomalycon.com/wp-content/themes/twentysixteen/style.css?ver=4.8.1' type='text/css' media='all' />
+<style id='twentysixteen-style-inline-css' type='text/css'>
+
+		/* Custom Page Background Color */
+		.site {
+			background-color: #f8ecc2;
+		}
+
+		mark,
+		ins,
+		button,
+		button[disabled]:hover,
+		button[disabled]:focus,
+		input[type="button"],
+		input[type="button"][disabled]:hover,
+		input[type="button"][disabled]:focus,
+		input[type="reset"],
+		input[type="reset"][disabled]:hover,
+		input[type="reset"][disabled]:focus,
+		input[type="submit"],
+		input[type="submit"][disabled]:hover,
+		input[type="submit"][disabled]:focus,
+		.menu-toggle.toggled-on,
+		.menu-toggle.toggled-on:hover,
+		.menu-toggle.toggled-on:focus,
+		.pagination .prev,
+		.pagination .next,
+		.pagination .prev:hover,
+		.pagination .prev:focus,
+		.pagination .next:hover,
+		.pagination .next:focus,
+		.pagination .nav-links:before,
+		.pagination .nav-links:after,
+		.widget_calendar tbody a,
+		.widget_calendar tbody a:hover,
+		.widget_calendar tbody a:focus,
+		.page-links a,
+		.page-links a:hover,
+		.page-links a:focus {
+			color: #f8ecc2;
+		}
+
+		@media screen and (min-width: 56.875em) {
+			.main-navigation ul ul li {
+				background-color: #f8ecc2;
+			}
+
+			.main-navigation ul ul:after {
+				border-top-color: #f8ecc2;
+				border-bottom-color: #f8ecc2;
+			}
+		}
+	
+
+		/* Custom Link Color */
+		.menu-toggle:hover,
+		.menu-toggle:focus,
+		a,
+		.main-navigation a:hover,
+		.main-navigation a:focus,
+		.dropdown-toggle:hover,
+		.dropdown-toggle:focus,
+		.social-navigation a:hover:before,
+		.social-navigation a:focus:before,
+		.post-navigation a:hover .post-title,
+		.post-navigation a:focus .post-title,
+		.tagcloud a:hover,
+		.tagcloud a:focus,
+		.site-branding .site-title a:hover,
+		.site-branding .site-title a:focus,
+		.entry-title a:hover,
+		.entry-title a:focus,
+		.entry-footer a:hover,
+		.entry-footer a:focus,
+		.comment-metadata a:hover,
+		.comment-metadata a:focus,
+		.pingback .comment-edit-link:hover,
+		.pingback .comment-edit-link:focus,
+		.comment-reply-link,
+		.comment-reply-link:hover,
+		.comment-reply-link:focus,
+		.required,
+		.site-info a:hover,
+		.site-info a:focus {
+			color: #5f3913;
+		}
+
+		mark,
+		ins,
+		button:hover,
+		button:focus,
+		input[type="button"]:hover,
+		input[type="button"]:focus,
+		input[type="reset"]:hover,
+		input[type="reset"]:focus,
+		input[type="submit"]:hover,
+		input[type="submit"]:focus,
+		.pagination .prev:hover,
+		.pagination .prev:focus,
+		.pagination .next:hover,
+		.pagination .next:focus,
+		.widget_calendar tbody a,
+		.page-links a:hover,
+		.page-links a:focus {
+			background-color: #5f3913;
+		}
+
+		input[type="date"]:focus,
+		input[type="time"]:focus,
+		input[type="datetime-local"]:focus,
+		input[type="week"]:focus,
+		input[type="month"]:focus,
+		input[type="text"]:focus,
+		input[type="email"]:focus,
+		input[type="url"]:focus,
+		input[type="password"]:focus,
+		input[type="search"]:focus,
+		input[type="tel"]:focus,
+		input[type="number"]:focus,
+		textarea:focus,
+		.tagcloud a:hover,
+		.tagcloud a:focus,
+		.menu-toggle:hover,
+		.menu-toggle:focus {
+			border-color: #5f3913;
+		}
+
+		@media screen and (min-width: 56.875em) {
+			.main-navigation li:hover > a,
+			.main-navigation li.focus > a {
+				color: #5f3913;
+			}
+		}
+	
+</style>
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='twentysixteen-ie-css'  href='https://www.anomalycon.com/wp-content/themes/twentysixteen/css/ie.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentysixteen-ie8-css'  href='https://www.anomalycon.com/wp-content/themes/twentysixteen/css/ie8.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentysixteen-ie7-css'  href='https://www.anomalycon.com/wp-content/themes/twentysixteen/css/ie7.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.anomalycon.com/wp-content/themes/twentysixteen/js/html5.js?ver=3.7.3'></script>
+<![endif]-->
+<link rel="canonical" href="https://www.anomalycon.com/anomalycon-2014/2014-guest-spotlight/" />
+<link rel="alternate" type="application/json+oembed" href="https://www.anomalycon.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.anomalycon.com%2Fanomalycon-2014%2F2014-guest-spotlight%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.anomalycon.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.anomalycon.com%2Fanomalycon-2014%2F2014-guest-spotlight%2F&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+			<style type="text/css" id="twentysixteen-header-css">
+		.site-branding {
+			margin: 0 auto 0 0;
+		}
+
+		.site-branding .site-title,
+		.site-description {
+			clip: rect(1px, 1px, 1px, 1px);
+			position: absolute;
+		}
+	</style>
+	<link rel="icon" href="https://www.anomalycon.com/wp-content/uploads/2016/03/favicon.gif" sizes="32x32" />
+<link rel="icon" href="https://www.anomalycon.com/wp-content/uploads/2016/03/favicon.gif" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.anomalycon.com/wp-content/uploads/2016/03/favicon.gif" />
+<meta name="msapplication-TileImage" content="https://www.anomalycon.com/wp-content/uploads/2016/03/favicon.gif" />
+</head>
+
+<body class="page-template-default page page-id-147 page-child parent-pageid-339 group-blog">
+<div id="page" class="site">
+	<div class="site-inner">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<header id="masthead" class="site-header" role="banner">
+			<div class="site-header-main">
+				<div class="site-branding">
+					
+											<p class="site-title"><a href="https://www.anomalycon.com/" rel="home">AnomalyCon</a></p>
+											<p class="site-description">Colorado&#039;s First and Former Steampunk and Alternate History Convention</p>
+									</div><!-- .site-branding -->
+
+							</div><!-- .site-header-main -->
+
+											<div class="header-image">
+					<a href="https://www.anomalycon.com/" rel="home">
+						<img src="https://www.anomalycon.com/wp-content/uploads/2017/07/AnomalyCon.png" srcset="https://www.anomalycon.com/wp-content/uploads/2017/07/AnomalyCon-300x75.png 300w, https://www.anomalycon.com/wp-content/uploads/2017/07/AnomalyCon-768x192.png 768w, https://www.anomalycon.com/wp-content/uploads/2017/07/AnomalyCon.png 800w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 81vw, (max-width: 1362px) 88vw, 1200px" width="800" height="200" alt="AnomalyCon">
+					</a>
+				</div><!-- .header-image -->
+					</header><!-- .site-header -->
+
+		<div id="content" class="site-content">
+
+<div id="primary" class="content-area">
+	<main id="main" class="site-main" role="main">
+		
+<article id="post-147" class="post-147 page type-page status-publish hentry">
+	<header class="entry-header">
+		<h1 class="entry-title">2014 Guest Spotlight</h1>	</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		<h2>Trai Cartwright</h2>
+<p><img class="alignleft" src="/wp-content/uploads/2013/04/TCartwright.jpg" alt="" />Trai Cartwright is a 20-year entertainment industry veteran recently returned to her native Colorado. During her tenure in Los Angeles, four of Trai’s screenplays were optioned, she produced three independent films and she has consulted on thousands of scripts. She was a studio development executive, spent eight years consulting for HBO, was assistant director of Leonardo DiCaprio&#8217;s online ventures, worked at a massively multi-player online role-playing game company, and made ringtones for 20th Century Fox. She currently teaches creative writing and screenwriting across Colorado for UNC, Colorado Film School, private writers groups, conferences, and also edits and coaches writers one-on-one. Trai can be found at <a href="http://www.craftwrite.com">www.craftwrite.com</a>.</p>
+<h2>Matthew Ebel</h2>
+<p><img class="alignleft" src="/wp-content/uploads/EbelII.jpg" alt="" />He calls himself a piano rocker, but he&#8217;s really just kind of a goofball. Matthew has been playing the piano since age 5, discovered electronic music at 12, and made this stuff his career in 1999. Since then he&#8217;s played at the Grand Ole Opry, been quoted in Rolling Stone, and made a name for himself in new media circles. He&#8217;s been able to play piano rock full-time since 2007 and since then he&#8217;s never looked back.<br />
+People tell him that they’re fans because he writes some funny stuff, some emotionally charged stuff, and tends to experiment with his sound a lot. He’ll take their word for it, but you can find out for yourself by listening to the samples or buying an album. All we know is that he likes to get on stage and have a good time, getting the crowd involved whenever possible.</p>
+<h2>Tracy Hickman</h2>
+<p><a href="http://www.anomalycon.com/wp-content/uploads/2013/04/THickman.jpg" rel="attachment wp-att-375"><img class="alignleft wp-image-375 size-medium" src="http://www.anomalycon.com/wp-content/uploads/2013/04/THickman-300x225.jpg" alt="THickman" width="300" height="225" /></a>Tracy Hickman is many times over an International and NYT Best-selling fantasy and science-fiction author with over fifty books in print. He has in excess of thirty years’ experience in the crafting and selling of the written word. He is also a pioneer in electronic- and self-publishing which he teaches in his own online writing workshops and seminars. He specializes in character and story structure as well as the new paradigms of publishing in the ebook age. Rumor has it he is planning to do a Killer Breakfast for us, too!<br />
+Thorough and extensive background can be found at <a href="http://www.trhickman.com/">trhickman.com</a>.</p>
+<h2>Jan Scott-Frazier</h2>
+<p><img class="alignleft" src="/wp-content/uploads/ScottfrazierII.png" alt="" />We put Jan here with the authors because she has so many amazing talents, we almost needed a category just for her! Jan joins us as AnomalyCon&#8217;s MC for 2014!<br />
+Jan worked in the anime industry in Japan for 13 years in a number of different positions. Jan was the first foreigner to work in the production department in a Japanese studio &#8211; Artland &#8211; on RikiOh 2, Locke the Superman (OVA), Shurato (OVA), Bubblegum Crash (OVA) and Tottoi (feature) then trained animation studio staff in China, Thailand and other countries. She founded her own full production company, TAO Corporation Ltd., in Bangkok, Thailand, which did work on Moldiver,Diary of Mikan, Genocyber and SWAT Kats amongst others. She also co-founded GENESIS Digital Publishing Company with Izumi Matsumoto (Kimagure Orange Road) where they created Comic ON, the first digital manga, on CD-ROM in which Jan made her manga debut with her original digital graphic novelTranscendence. Comic ON went on to be the one of the top selling non-game CD-ROM titles in Japan in 1996.<br />
+She then worked for Production I.G (Ghost in the Shell, Blood) as the president of Production I.G. USA and as a producer and technical director on the Japanese side. She was technical director of the animation for the Grandstream Saga, Madou Monogatari, and Kyoushin Senki games as well as working on the Panzer Dragoon OVA. As a freelance director, Jan directed episodes of Susie-chan &amp; Marvy (TV) and worked on the development of original TV series projects.<br />
+She also consulted on the development of computer assisted (2D) animation production systems and helped transition the anime industry into digital production.<br />
+Jan has written textbooks, magazine articles, technical manuals ans screenplays, translated manga (Scryed, Psychic Academy, Here is Greenwood, Pink Sniper) and the movie Dead Leaves. Her work has been published in 8 languages. She has traveled extensively throughout Asia, Canada, the UK and the US teaching animation techniques and has been a guest and panelist at over 200 conventions. She also founded and produced two albums for non-profit Voices For, www.voicesfor.org<br />
+Jan can be found on the web at www.janscottfrazier.com</p>
+<h2>Strange Artifact</h2>
+<p><img class="alignleft" src="/wp-content/uploads/StrangeArtifactII.jpg" alt="" />Hailing from Tokyo, Japan, <a href="https://www.facebook.com/strangeartifactjp">Strange Artifact</a> is a steampunk musical unit consisting of vocalist MaRy and bassist/composer 130JET. After forming in 2010, the duo took to the stage wearing steampunk-inspired outfits in an effort to introduce the subculture to Japanese audiences who, though familiar with the style through the works of Hayao Miyazaki and other famous Japanese artists, were unfamiliar with steampunk as a genre.<br />
+After performing at the internationally-renown Tokyo Design Festa as well as events hosted by underground subculture promoter Artism, Strange Artifact gained international attention through a crowdfunding campaign to support their debut album, The Antikythera Mechanism. In support of their first release, the band made first journey overseas to perform at the Steampunk World&#8217;s Fair in New Jersey.<br />
+Since then, Strange Artifact have also gained attention in Japan through their Poorman&#8217;s Gold Label, consisting of hand-made steampunk accessories. In addition to gracing the cover of Japan&#8217;s biggest English-language weekly Metropolis Magazine, the duo have appeared in the Steampunk Oriental Laboratory series of mooks as well as Artism Magazine.<br />
+MaRy and 130JET are both looking forward to their second trip to the US and can&#8217;t wait to meet the region&#8217;s steampunk enthusiasts, as well as share the stage with all of the talented performers that are appearing at AnomalyCon. See you in Denver!</p>
+	</div><!-- .entry-content -->
+
+	
+</article><!-- #post-## -->
+
+	</main><!-- .site-main -->
+
+	
+</div><!-- .content-area -->
+
+
+	<aside id="secondary" class="sidebar widget-area" role="complementary">
+		<section id="nav_menu-3" class="widget widget_nav_menu"><h2 class="widget-title">AnomalyCon</h2><div class="menu-anomalycon-container"><ul id="menu-anomalycon" class="menu"><li id="menu-item-1194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1194"><a href="https://www.anomalycon.com/anomalycon-2011/">AnomalyCon 2011</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1195"><a href="https://www.anomalycon.com/anomalycon-2011/2011-guests/">2011 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-523"><a href="https://www.anomalycon.com/anomalycon-2012/">AnomalyCon 2012</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1155"><a href="https://www.anomalycon.com/anomalycon-2012/2012-guests/">2012 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-522"><a href="https://www.anomalycon.com/anomalycon-2013/">AnomalyCon 2013</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1156"><a href="https://www.anomalycon.com/anomalycon-2013/2013-guests/">2013 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-526" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-has-children menu-item-526"><a href="https://www.anomalycon.com/anomalycon-2014/">AnomalyCon 2014</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1164"><a href="https://www.anomalycon.com/anomalycon-2014/2014-guests/">2014 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-525"><a href="https://www.anomalycon.com/anomalycon-2015/">AnomalyCon 2015</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1171"><a href="https://www.anomalycon.com/anomalycon-2015/2015-guests/">2015 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-524"><a href="https://www.anomalycon.com/anomalycon-2016/">AnomalyCon 2016</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1176"><a href="https://www.anomalycon.com/anomalycon-2016/2016-guests/">2016 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-594"><a href="https://www.anomalycon.com/anomalycon-2017/">AnomalyCon 2017</a>
+<ul  class="sub-menu">
+	<li id="menu-item-595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-595"><a href="https://www.anomalycon.com/anomalycon-2017/2017-guests/">2017 Guests</a></li>
+	<li id="menu-item-520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-520"><a href="https://www.anomalycon.com/anomalycon-2017/contests/">2017 Contests</a></li>
+</ul>
+</li>
+<li id="menu-item-509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-509"><a href="https://www.anomalycon.com/mission/">Our Mission</a></li>
+<li id="menu-item-1212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1212"><a href="https://www.anomalycon.com/policies/">Our Policies</a></li>
+</ul></div></section><section id="linkcat-3" class="widget widget_links"><h2 class="widget-title">Social Media</h2>
+	<ul class='xoxo blogroll'>
+<li><a href="https://www.facebook.com/AnomalyCon" rel="me">Facebook</a></li>
+<li><a href="https://plus.google.com/+Anomalycon" rel="me">Google+</a></li>
+<li><a href="https://www.instagram.com/anomalyconofficial/" rel="me">Instagram</a></li>
+<li><a href="http://anomalycon.tumblr.com/" rel="me">tumblr.</a></li>
+<li><a href="https://twitter.com/anomalycon" rel="me">Twitter</a></li>
+<li><a href="http://www.youtube.com/user/AnomalyCon" rel="me">YouTube</a></li>
+
+	</ul>
+</section>
+	</aside><!-- .sidebar .widget-area -->
+
+		</div><!-- .site-content -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+			
+			
+			<div class="site-info">
+								<span class="site-title"><a href="https://www.anomalycon.com/" rel="home">AnomalyCon</a></span>
+				<a href="https://wordpress.org/">Proudly powered by WordPress</a>
+			</div><!-- .site-info -->
+		</footer><!-- .site-footer -->
+	</div><!-- .site-inner -->
+</div><!-- .site -->
+
+<script type='text/javascript' src='https://www.anomalycon.com/wp-content/themes/twentysixteen/js/skip-link-focus-fix.js?ver=20160816'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.anomalycon.com/wp-content/themes/twentysixteen/js/functions.js?ver=20160816'></script>
+<script type='text/javascript' src='https://www.anomalycon.com/wp-includes/js/wp-embed.min.js?ver=4.8.1'></script>
+</body>
+</html>

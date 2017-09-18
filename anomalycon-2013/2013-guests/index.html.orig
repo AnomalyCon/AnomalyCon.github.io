@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="pingback" href="https://www.anomalycon.com/xmlrpc.php">
+		<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>2013 Guests &#8211; AnomalyCon</title>
+<link rel='stylesheet' id='genericons-css'  href='https://www.anomalycon.com/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-style-css'  href='https://www.anomalycon.com/wp-content/themes/twentysixteen/style.css?ver=4.8.1' type='text/css' media='all' />
+<style id='twentysixteen-style-inline-css' type='text/css'>
+
+		/* Custom Page Background Color */
+		.site {
+			background-color: #f8ecc2;
+		}
+
+		mark,
+		ins,
+		button,
+		button[disabled]:hover,
+		button[disabled]:focus,
+		input[type="button"],
+		input[type="button"][disabled]:hover,
+		input[type="button"][disabled]:focus,
+		input[type="reset"],
+		input[type="reset"][disabled]:hover,
+		input[type="reset"][disabled]:focus,
+		input[type="submit"],
+		input[type="submit"][disabled]:hover,
+		input[type="submit"][disabled]:focus,
+		.menu-toggle.toggled-on,
+		.menu-toggle.toggled-on:hover,
+		.menu-toggle.toggled-on:focus,
+		.pagination .prev,
+		.pagination .next,
+		.pagination .prev:hover,
+		.pagination .prev:focus,
+		.pagination .next:hover,
+		.pagination .next:focus,
+		.pagination .nav-links:before,
+		.pagination .nav-links:after,
+		.widget_calendar tbody a,
+		.widget_calendar tbody a:hover,
+		.widget_calendar tbody a:focus,
+		.page-links a,
+		.page-links a:hover,
+		.page-links a:focus {
+			color: #f8ecc2;
+		}
+
+		@media screen and (min-width: 56.875em) {
+			.main-navigation ul ul li {
+				background-color: #f8ecc2;
+			}
+
+			.main-navigation ul ul:after {
+				border-top-color: #f8ecc2;
+				border-bottom-color: #f8ecc2;
+			}
+		}
+	
+
+		/* Custom Link Color */
+		.menu-toggle:hover,
+		.menu-toggle:focus,
+		a,
+		.main-navigation a:hover,
+		.main-navigation a:focus,
+		.dropdown-toggle:hover,
+		.dropdown-toggle:focus,
+		.social-navigation a:hover:before,
+		.social-navigation a:focus:before,
+		.post-navigation a:hover .post-title,
+		.post-navigation a:focus .post-title,
+		.tagcloud a:hover,
+		.tagcloud a:focus,
+		.site-branding .site-title a:hover,
+		.site-branding .site-title a:focus,
+		.entry-title a:hover,
+		.entry-title a:focus,
+		.entry-footer a:hover,
+		.entry-footer a:focus,
+		.comment-metadata a:hover,
+		.comment-metadata a:focus,
+		.pingback .comment-edit-link:hover,
+		.pingback .comment-edit-link:focus,
+		.comment-reply-link,
+		.comment-reply-link:hover,
+		.comment-reply-link:focus,
+		.required,
+		.site-info a:hover,
+		.site-info a:focus {
+			color: #5f3913;
+		}
+
+		mark,
+		ins,
+		button:hover,
+		button:focus,
+		input[type="button"]:hover,
+		input[type="button"]:focus,
+		input[type="reset"]:hover,
+		input[type="reset"]:focus,
+		input[type="submit"]:hover,
+		input[type="submit"]:focus,
+		.pagination .prev:hover,
+		.pagination .prev:focus,
+		.pagination .next:hover,
+		.pagination .next:focus,
+		.widget_calendar tbody a,
+		.page-links a:hover,
+		.page-links a:focus {
+			background-color: #5f3913;
+		}
+
+		input[type="date"]:focus,
+		input[type="time"]:focus,
+		input[type="datetime-local"]:focus,
+		input[type="week"]:focus,
+		input[type="month"]:focus,
+		input[type="text"]:focus,
+		input[type="email"]:focus,
+		input[type="url"]:focus,
+		input[type="password"]:focus,
+		input[type="search"]:focus,
+		input[type="tel"]:focus,
+		input[type="number"]:focus,
+		textarea:focus,
+		.tagcloud a:hover,
+		.tagcloud a:focus,
+		.menu-toggle:hover,
+		.menu-toggle:focus {
+			border-color: #5f3913;
+		}
+
+		@media screen and (min-width: 56.875em) {
+			.main-navigation li:hover > a,
+			.main-navigation li.focus > a {
+				color: #5f3913;
+			}
+		}
+	
+</style>
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='twentysixteen-ie-css'  href='https://www.anomalycon.com/wp-content/themes/twentysixteen/css/ie.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentysixteen-ie8-css'  href='https://www.anomalycon.com/wp-content/themes/twentysixteen/css/ie8.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentysixteen-ie7-css'  href='https://www.anomalycon.com/wp-content/themes/twentysixteen/css/ie7.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.anomalycon.com/wp-content/themes/twentysixteen/js/html5.js?ver=3.7.3'></script>
+<![endif]-->
+<link rel="canonical" href="https://www.anomalycon.com/anomalycon-2013/2013-guests/" />
+<link rel="alternate" type="application/json+oembed" href="https://www.anomalycon.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.anomalycon.com%2Fanomalycon-2013%2F2013-guests%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.anomalycon.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.anomalycon.com%2Fanomalycon-2013%2F2013-guests%2F&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+			<style type="text/css" id="twentysixteen-header-css">
+		.site-branding {
+			margin: 0 auto 0 0;
+		}
+
+		.site-branding .site-title,
+		.site-description {
+			clip: rect(1px, 1px, 1px, 1px);
+			position: absolute;
+		}
+	</style>
+	<link rel="icon" href="https://www.anomalycon.com/wp-content/uploads/2016/03/favicon.gif" sizes="32x32" />
+<link rel="icon" href="https://www.anomalycon.com/wp-content/uploads/2016/03/favicon.gif" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.anomalycon.com/wp-content/uploads/2016/03/favicon.gif" />
+<meta name="msapplication-TileImage" content="https://www.anomalycon.com/wp-content/uploads/2016/03/favicon.gif" />
+</head>
+
+<body class="page-template-default page page-id-113 page-child parent-pageid-270 group-blog">
+<div id="page" class="site">
+	<div class="site-inner">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<header id="masthead" class="site-header" role="banner">
+			<div class="site-header-main">
+				<div class="site-branding">
+					
+											<p class="site-title"><a href="https://www.anomalycon.com/" rel="home">AnomalyCon</a></p>
+											<p class="site-description">Colorado&#039;s First and Former Steampunk and Alternate History Convention</p>
+									</div><!-- .site-branding -->
+
+							</div><!-- .site-header-main -->
+
+											<div class="header-image">
+					<a href="https://www.anomalycon.com/" rel="home">
+						<img src="https://www.anomalycon.com/wp-content/uploads/2017/07/AnomalyCon.png" srcset="https://www.anomalycon.com/wp-content/uploads/2017/07/AnomalyCon-300x75.png 300w, https://www.anomalycon.com/wp-content/uploads/2017/07/AnomalyCon-768x192.png 768w, https://www.anomalycon.com/wp-content/uploads/2017/07/AnomalyCon.png 800w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 81vw, (max-width: 1362px) 88vw, 1200px" width="800" height="200" alt="AnomalyCon">
+					</a>
+				</div><!-- .header-image -->
+					</header><!-- .site-header -->
+
+		<div id="content" class="site-content">
+
+<div id="primary" class="content-area">
+	<main id="main" class="site-main" role="main">
+		
+<article id="post-113" class="post-113 page type-page status-publish hentry">
+	<header class="entry-header">
+		<h1 class="entry-title">2013 Guests</h1>	</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		<h1>Anomaly Con 3 Guests</h1>
+<h4>Listed Alphabetically By Interest. Jump to: <a href="#artist">Artists</a> | <a href="#author">Authors</a> | <a href="#music">Performers</a></h4>
+<h2><a name="artist"></a>Artist Guests</h2>
+<h3>SPOTLIGHT: Trae Dorn</h3>
+<p><img class="alignleft" src="/wp-content/uploads/Trae.jpg" alt="" />Trae Dorn, contrary to popular belief (and his continued insistence), is not the Secret King of Finland. He is not an android designed by a top secret Swedish government agency, nor is he responsible for seventeen earthquakes in the last ten years. Trae is, however, the creator of the (very different) webcomics &#8220;UnCONventional&#8221; and &#8220;The Chronicles of Crosarth.&#8221; Having working conventions for over fifteen years (and co-founded Wisconsin&#8217;s longest running Anime Convention), conventions are in Trae&#8217;s blood… metaphorically, not literally &#8212; because that would be gross. Trae has funneled this mania into UnCONventional, a twice weekly webcomic based around the staff of a fictional fandom convention. The Chronicles of Crosarth, on the other hand, is a digitally collaged webcomic of steampunk adventure. Set around the fictional nation of Crosarth, it follows the crew of the airship HMS Hummingbird on their adventures. It also features a talking squid, which for reasons unfathomable no one finds abnormal. Trae insists that this is not a sign of insanity.</p>
+<h3>Chaz Kemp</h3>
+<p><img class="alignleft" src="/wp-content/uploads/Chaz_0.jpg" alt="" />Chaz Kemp is an award-winning Art Nouveau illustrator from Denver that loves drawing Steampunk and Fantasy images. He perfected his style while studying at the Art Institute of Colorado and has since gone on to work with clients from all over the world. He encourages you to visit and &#8220;Like&#8221; his Facebook page: www.facebook.com/ChazKempIllustration because his therapist says he needs more friends.</p>
+<h3>J Zoe Frasure</h3>
+<p><img class="alignleft" src="/wp-content/uploads/frasure.jpg" alt="" />J Zoe Frasure began her career as an artist at Walt Disney World in Orlando, FL. Bent on pursuing her career, she returned to Ohio to achieve her art Degree. Eventually, she found her way to Los Angeles, working in the dark side of Hollywood, as a storyboard and concept artist in indie horror on such films as the &#8220;Hatchet&#8221; movie series and &#8220;The Collector.&#8221; A diverse artist, Zoe has spent the past 6 years designing collectibles and creating original souvenirs for such notable clients as Disney, Hard Rock Cafe and Sea World. She finds a strange balance between making cute Disney characters by day and planning out slashing people to bits by night.<br />
+On the lighter side, Zoe has made a reputation in the advertising world creating storyboards for commercials for such names as Cindy Crawford Home, Rooms to Go and Ashley Furniture. Her first book cover, &#8220;Tennis Dates&#8221; premiered in 2008. Since 2004, Zoe has provided the artwork for the infamous Mr. Bones Pumpkin Patch in Beverly Hills, a mecca for celebrity sitings.http://www.mrbonespumpkinpatch.com/<br />
+Film Credit<br />
+http://www.imdb.com/name/nm1580281/<br />
+Art portfolio<br />
+http://onlinegalleries.com.au/users/ZoeEntertainment/</p>
+<h3>EvilJohn Mays</h3>
+<p><img class="alignleft" src="/wp-content/uploads/eviljohn.jpg" alt="" />John Mays is a special effects makeup artist and props designer currently based out of Colorado. Known in the horror community as “Evil John” for his master gore effects, he is also known in the independent film community for his incredibly realistic handmade props. Most of his props, and all of his makeup prosthetics, are made from scratch lending to the realism of his work. His website is www.ejmfx.com.<br />
+His talent in special effects makeup, creature and props design can be seen in such films as ZERO ONE, Red Victoria, Shroud, Killer Ink, The Dead Speak Tales, Sisters Four, Savage Spirit, The 15 Minute Rule, Ruletta Rusica, Crushed, Dementia and Party Girl. He is currently working on “Genesis,” the movie, being filmed in Colorado.<br />
+You will often see him at conventions – Mile High Horror Film Festival, Texas Frightmare Weekend, Texas Blood Bath and is a regular fixture at Dallas A-Kon. So, if you are feeling a bit too normal, drop by “The Coroner’s Office” … he can fix that!!</p>
+<h3>Sarah Menzel</h3>
+<p><img class="alignleft" src="/wp-content/uploads/sarahmenzel.jpg" alt="" />Sarah Menzel has been working as a full time freelance illustrator since graduating from the Savannah College of Art and Design with a B.F.A in Sequential Art and a minor in storyboarding. Her creative influences stem from Japanese and European comics, as well as animation of all kinds. She is currently involved in a variety of projects both personal and commercial, including working as the colorist for Velvet Garden, a graphic novel written by Ryan Davis and drawn by Joe Oliver. Sarah is also the lead art director for Apparatus Publishing, a startup company which aims to deliver speculative fiction stories integrated with sound and image for mobile devices.</p>
+<h3>Kathryn S. Renta</h3>
+<p><img class="alignleft" src="/wp-content/uploads/kathrynrenta.jpg" alt="" />Kathryn S. Renta is an award winning artist and recent immigrant to Colorado where she survived her first winter–virtually unscathed. She grew up in California with a vivid imagination and unquenchable curiosity. With an equally intense fear of blank pages, she set about to fill up every single one she could. That included sketchbooks, notebooks, journals, random bits of paper and the wall behind her childhood bed.<br />
+At the tender age of 21, she broke her mother’s heart by running away to join the the Renaissance Faire, where she learned the incredible craft of mixing entertaining with education. She has since quit the stage to focus more effectively on her art and writing.<br />
+In addition to 15+ years as a graphic artist and illustrator, her work includes over a decade of lettering comics for Viz Media, Dark Horse Comics, DC Comics and several independent publishers.<br />
+Kathryn is currently writing a Crusades era fantasy story, designing the cover for Penny Dread Tales 3, and illustrating a children’s novel for Sam Knight. You can find her work and musings at http://kathrynrenta.com/ and http://latchkeyartist.com/.</p>
+<h3>Janet M. Smith</h3>
+<p><img class="alignleft" src="/wp-content/uploads/janetsmith.jpg" alt="" /> Janet Smith has been a professional designer and costumer for over 40 years (no wonder her hands hurt) getting her apparel design degree from the Fashion Institute of Technology in 1972 and her BA from UNC in theatrical design and technology (with a costume emphasis) in 2005. She learned to sew when she was 10 years old making Barbie clothes and now she costumes clients, actors, grandchildren and her ever busy husband, Terry Kroenung. She prefers designing for classical theatre, renaissance faires, pirates, sci-fi, Steampunk, in other words, anything before 1930 or after 2200.</p>
+<h3>Stan Yan</h3>
+<p><img class="alignleft" src="/wp-content/uploads/stanyan.jpg" alt="" />Stan Yan grew up in Denver, Colorado and went to school at the University of Colorado in Boulder where he got his bachelor’s degree in accounting. Due to the lack of sex-for-recruiting for accounting students, Yan’s life took the tragic turn into sales for the securities industry, where he wallowed in ethical poverty on-and-off for thirteen years. Yan takes his frustrations out by penning graphic novels such as The Wang. In 2005, Yan gave up on financial security and become a full-time freelance cartoonist, illustrating SubCulture for Ape Entertaiment, creating comic strips for the financial and sales industry, drawing zombie caricatures, and picking up odd illustration and teaching jobs when folks are feeling agonizing pity for him. Stan teaches Summer camps, after school programs, workshops, and helped to develop a degree program in graphic storytelling as an adjunct faculty member at the Community College of Aurora. He writes and color the REVVVelations webstrip. Recent credits include illustrating the comic book &#8220;The Adventures of Health Team 4&#8221; for Kaiser Permanente; writing Vincent Price Presents #33 for Bluewater Productions; and Yan &#8220;Food Fright&#8221; for the Melting Pot restaurant. His current project can be found athttp://stanyansblog.blogspot.com/. You can find his homepage at http://www.squidworks.com/Stan</p>
+<h2><a name="author"></a>Literary Guests</h2>
+<h3>David Boop</h3>
+<p><img class="alignleft" src="/wp-content/uploads/DavidBoop_0.jpg" alt="" />David rejoins Anomaly Con, this year as our official Master of Ceremonies. The Board decided it was time to get someone to officially run the microphone, so here he is. David is a Denver-based single father, returning college student and author. He has one novel, She Murdered Me with Science, and over a twenty short stories to his credit. His specialties include pulp, noir and weird westerns. His first media-tie was released in 2011’s The Green Hornet Casefiles. He has also worked on Fairypunk, the multimedia, steampunk-themed re-envisioning of fairy tales. His personal interests include film, anime, The Blues and Mayan History. You can find out more about David at davidboop.com.</p>
+<h3>SPOTLIGHT: Gail Carriger</h3>
+<p><img class="alignleft" src="/wp-content/uploads/GC_01.jpg" alt="" />New York Times Bestselling Author Gail Carriger writes to cope with being raised in obscurity by an expatriate Brit and an incurable curmudgeon. She escape small town life and inadvertently acquired several degrees in higher learning, a fondness for cephalopods, and a chronic tea habit.<br />
+Her books are urbane fantasies mixed with steampunk comedies of manners. Her debut novel, <i>Soulless</i>, won the ALA&#8217;s Alex Award and was nominated for a Compton Crook, Campbell, and a Locus awards. <i>Changeless, Blameless, </i>and <i>Heartless</i> were New York Times Bestsellers. The final book in the series, <i>Timeless</i> (March 2012) will release along side the manga edition of <i>Soulless</i>. The first in her steampunk adventure Finishing School series for young adults,<i>Etiquette &amp; Espionage</i>, and a new Parasol Protectorate Abroad series launch in 2013.<br />
+Her other hats (neither pith helmet nor fedora) have included tromping the globe excavating ancient cultures, torturing undergraduates with science, and writing cryptic reviews of YA novels for the Horn Book Guide.<br />
+You can find Gail through her agent, Kristin Nelson of Nelson Literary Agency: (http://www.nelsonagency.com/), via her web site http:///www.gailcarriger.com, or over on LiveJournal, Blogspot, Twitter and Facebook.</p>
+<h3>SPOTLIGHT: S.J. Chambers</h3>
+<p><img class="alignleft" src="/wp-content/uploads/SJweb.jpg" alt="" />S. J. Chambers has published her fiction, poetry, and non-fiction in a variety of venues. Her fiction has appeared in Mungbeing magazine (where her story &#8220;Of Parallel and Parcel&#8221; was nominated for a Pushcart prize), New Myths, Yankee Pot Roast, and in the World Fantasy nominated Thackery T. Lambshead&#8217;s Cabinet of Curiosities (HarperCollins, 2011) and in the forthcoming Starry Wisdom Library (PS Publishing). Her non-fiction has appeared in Tor.com, Fantasy, Bookslut, WeirdFictionReview.com, and Strange Horizons (where she was also the Articles Senior Editor for two years). Her first book, the Hugo and World Fantasy nominated The Steampunk Bible, was co-authored with award-winning Jeff VanderMeer, and they are teaming up again with The Steampunk User&#8217;s Manual (Abrams Image) due out in Spring 2014. You can find out more about S. J. at her blog: http://basbleuzombies.tumblr.com/ and The Steampunk Bible at: www.steampunkbible.com.<br />
+If you are unfamiliar with S. J.&#8217;s work, here are some examples that are available online:<br />
+Fiction:<br />
+<a href="http://www.mungbeing.com/issue_30.html?page=5#2419">&#8220;Of Parallel and Parcel&#8221;</a><br />
+<a href="http://www.tor.com/blogs/2010/04/the-lit-monster-gaga-goes-genre">&#8220;The Lit Monster: Lady Gaga Goes Genre&#8221; (April Fool&#8217;s joke)</a><br />
+Non-Fiction:<br />
+<a href="http://www.fantasy-matters.com/2011/10/poe-bug.html">&#8220;The Poe Bug&#8221;</a><br />
+&#8220;Wandering Spirits: Traveling Mary Shelley&#8217;s Frankenstein&#8221;</p>
+<h3>Quincy Allen</h3>
+<p><img class="alignleft" src="/wp-content/uploads/QuincyAllen_0.jpg" alt="" />At an early age Quincy had the intention of becoming an author. Unfortunately, he was waylaid by bandits armed with the age-old adage, “So you wanna be a starving artist the rest of your life?” As a result he ended up a slave to the IT grind for seventeen years, maintaining his sanity with motorcycles and music.<br />
+Well into a mid-life career change, he’s been published in multiple anthologies, online and print magazines as well as one omnibus. His steampunk version of Rumpelstiltskin is under contract with Fairy Punk Studios, and he’s written for the Internet radio show RadioSteam. His novel Chemical Burn—a finalist in the Rocky Mountain Writers Association Colorado Gold Writing Contest—was first published in June of 2012, and has been picked up by Fantastic Journeys Publishing.<br />
+His new novel Jake Lasater and the Blood Curse of Atheon, will be ready for sale this summer and he’s beginning work on a new off-world steampunk series. He works part-time as a tech-writer to pay his bills and lives in a lovely house that he considers his very own sanctuary.<br />
+He&#8217;s working the convention circuit when time permits, with appearances scheduled at CoSine, AnomalyCon 3, OsFest 6 and MileHiCon 44 this year as well as a few book signings along the way. All in all, he&#8217;s an all-too-busy writer and homebody.</p>
+<h3>Deb Alverson</h3>
+<p><img class="alignleft" src="/wp-content/uploads/debII.jpg" alt="" />Deb Alverson was introduced to science fiction at the age of five, when she learned to read Dr. Seuss. Since then, she has delighted in stories that make the impossible believable. She has been a scribbler of tales much of her life, but only developed the courage to share her scribbles when she joined a science fiction writing club. She wrote stories and eventually became editor of their newsletter. When a new writer joined the group, they began writing stories together and didnt stop until it became a novel. Or two, or three. She has won awards in several internet writing competitions. Deb lives in Aurora, Colorado with her two fast friends, retired racer greyhounds Marissa and Stormy.</p>
+<h3>Drew Bankston</h3>
+<p><img class="alignleft" src="/wp-content/uploads/drew.jpg" alt="" />As a writer, I have published several screenplays, short stories, and poems. Growing up with the influences of Bradbury, Asimov and Clarke, has helped me learn about the science fiction world. As the former Editor of Galactic Alliance magazine, I gained numerous contacts with science fiction actors and writers. Additionally, I was a leading member of a science fiction writing club based in Denver, Colorado for two years. Over the past 8 years, I have owned Star Painter Productions, a video production company. Our new book and the first in our trilogy, &#8220;The Eyes of Tokorel: The Color of Emotion&#8221; will be available for purchase beginning March 2013.</p>
+<h3>Dana Bell</h3>
+<p><img class="alignleft" src="/wp-content/uploads/Dana_Bell.jpg" alt="" />Owned by three cats, Dana Bell makes her home in Colorado. The two older males, Sammy and Maximillian starred in her book ‘Winter Awakening’ but under clever disguises so they would not be recognized. Adara has yet to make her debut appearance but her mistress has promised the young female she will have a key role in the next novel.Dana is also the author of a popular cat vampire short story series and has edited two anthologies, ‘Of Fur and Fire’ and ‘Time Traveling Coffers’. She has been nominated for the Rhysling award for her poem ‘Welcomed Cast Outs’ which stars, of course, a cat narrator.<br />
+<a href="http://www.fanfiction.net/~dragonlots" rel="noopener">www.fanfiction.net/~dragonlots</a><br />
+www.danabellauthor.blogspot.com</p>
+<h3>M. H. Boroso</h3>
+<p><img class="alignleft" src="/wp-content/uploads/MHBoroson.jpg" alt="" />M. H. Boroson&#8217;s novel CITY OF STRANGERS won first prize in the Rocky Mountain Fiction Writers 2012 Colorado Gold writing contest. He loves fantasy novels, Buffy the Vampire Slayer, and Asian cinema, and he studied Chinese language and religion at Naropa University and the University of Colorado. His novel CITY OF STRANGERS features a Daoist priestess in 19th-Century San Francisco who uses kung fu, a peachwood sword, spirit magic, and a sarcastic talking eyeball in her pocket to protect Chinatown from monsters out of Asian folklore. Boroson thinks fantasy fiction and cinema could use more ass-kicking female protagonists, more kung fu, more yokai, more kaiju, and more of a willingness to venture outside familiar cultural material for inspiration. His agent is Sandy Lu at the Perkins Literary Agency.</p>
+<h3>JA Campbell</h3>
+<p><img class="alignleft" src="/wp-content/uploads/JCampbell_0.jpg" alt="" />Julie has been many things over the last few years, from college student, to bookstore clerk and an over the road trucker. She’s worked as a 911 dispatcher and in computer tech support, but through it all she’s been a writer and when she’s not out riding her horse, she can usually be found sitting in front of her computer. She lives in Colorado with her three cats, her vampire-hunting dog in training, Kira, her Irish Sailor and, of course, her horse Sabaska. She is the author of many Vampire and Ghost-Hunting Dog stories and the young adult urban fantasy series The Clanless.</p>
+<h3>Bill Cherf</h3>
+<p><img class="alignleft" src="/wp-content/uploads/BCherf.png" alt="" />As a fifth-grader W.J. Cherf took Sister Mary Stephana’s words to heart and ever since has found the confidence to take on challenges that others shy away from. When confronted with retirement, Cherf said, “Heck, I’ve always wanted to write a book without footnotes, to tell a fascinating tale that is so real that my avid readers would be left puzzled over what was real and what was Memorex.”<br />
+To craft such a tale takes wit, a love of science fiction, and above all a deep reverence for ancient history and archaeology. All of these qualities are stitched together beautifully in his books, because Cherf has truly been there, dug that. This is a guy who has even seen the sun rise from atop the Great Pyramid.<br />
+At his core Cherf is a teacher and his books do just that. They are a passionate sharing of a much-beloved subject. His readers tend to be those looking for an adventure, who enjoy lively description, an involved plot, and the intellectual satisfaction of learning something new. In short, his trilogy: The Manuscripts of the Richards’ Trust: Bow Tie, Recovery, and Children of Ptah, should be required reading for any class on ancient Egypt.<br />
+Consequently, Cherf’s books have been generously reviewed by his readers, who have eagerly shared their joy. For an author, such sentiments are an embarrassment of riches; precious words like honey deliciously drizzled.<br />
+Living with his beloved wife Sue, they keep Foxbat 1 out in the garage. They enjoy playing golf, road racing (that’s where Foxbat 1 comes in), jawing around a fire pit on a cool evening while sampling craft beers, and rooting for the Cubs – clearly Cherf is a hopeless romantic.<br />
+Come visit www.wjcherf.com and sample FREE chapters and begin following the temporal adventures of Egyptologist Joseph Richards.</p>
+<h3>Guy Anthony De Marco</h3>
+<p><img class="alignleft" src="/wp-content/uploads/DeMarco.jpg" alt="" width="337" height="504" />Guy Anthony De Marco is a nocturnal award-winning author living in the geographic center of the middle of nowhere. Between writing speculative fiction, brewing more coffee, and wishing the bills and the horrific mortgage would forget how to find him, he ponders how long it would take for a zombie apocalypse to reach his front door. His practical wife, Tonya, trains all of the small pets to trip the incoming hordes and wonders where all the coffee went by the time she wakes up.<br />
+Guy is a member of the following organizations: SFWA, HWA, SFPA, ASCAP, RMFW, and hopes to collect the rest of the letters of the alphabet one day.</p>
+<h3>Sherry D. Ficklin</h3>
+<p><img class="alignleft" src="/wp-content/uploads/SherryFicklin.jpg" alt="" />Sherry is a full time writer from Colorado where she lives with her husband, four kids, two dogs, and a fluctuating number of chickens and house guests. She can often be found browsing her local bookstore with a large white hot chocolate in one hand and a towering stack of books in the other. That is, unless she&#8217;s on deadline at which time she, much like the Loch Ness monster, is only seen in blurry photographs. In her spare time Sherry co-hosts Geek Chick Radio and teaches publication and writing classes.<br />
+Sherry is the author of over half a dozen YA and paranormal novels, including The Gods of Fate series, The Palmetto Moon series, and Military Brats: After Burn. Her new steampunk/ya series, The Lost Imperials, is under contract with Spencer Hill Press. Book 1, EXTRACTED, will be released on 11/12/13.<br />
+You can see more about Sherry on her website www.sherryficklin.com or visit her blog www.sherryficklin.blogspot.com.</p>
+<h3>Emily France</h3>
+<p><img class="alignleft" src="/wp-content/uploads/EmilyFrance.jpg" alt="" />Emily France is a YA author whose paranormal novel, Little Miss Life, recently won the Rocky Mountain Fiction Writers&#8217; 2012 award for best young adult novel. Before settling in Colorado to write, Emily filled up her resumé with adventures such as graduating from Brown University, working on a dude ranch in Wyoming, being a corporate attorney in Chicago, and getting hopelessly lost in the late-night streets of Kolkata.Emily has an MFA in creative writing. She currently lives in Boulder with her astronomer husband, a shelter dog, and a cat who was recently tiled into the bathroom wall by contractors. (The cat survived!)</p>
+<h3>Daniel M. Hoyt</h3>
+<p><img class="alignleft" src="/wp-content/uploads/danhoytII.jpg" alt="" />Daniel M. Hoyt makes his living as a systems architect for rocket trajectory software, when not writing or managing one of several indie presses. Having been steeped in music from an early age, sometime in his late thirties he reluctantly abandoned his dream of becoming a rock songwriter and turned his attention to a career that isn&#8217;t age-discriminatory: fiction writing. Since his first sale to Analog, in which he discovered with a shock that it&#8217;s possible to get paid to lie (without getting arrested), Dan has sold several stories to other magazines and anthologies, such as Esther Friesner&#8217;s suburban fantasy anthologies, Witch Way to the Mall, Strip Mauled, and Fangs for the Mammaries, and to Mike Brotherton&#8217;s groundbreaking NSF-funded online anthology, Diamonds in the Sky. Dan has even crossed over to the dark side of anthology editing with Fate Fantastic (DAW) and Better Off Undead (DAW). Catch up with him at http://www.danielmhoyt.com</p>
+<h3>Sarah A. Hoyt</h3>
+<p><img class="alignleft" src="/wp-content/uploads/sarahhoytII.jpg" alt="" />Sarah A. Hoyt has been instructed to say she has never written male adventure or erotica (though the latter is not strictly true, it just was never published) because that&#8217;s easier than listing everything she does write. She has published over 21 books in science fiction, fantasy, mystery and historical (one of which is considered romance). She&#8217;s also published over a hundred short stories in professional magazines and anthologies. She&#8217;s recently started bringing out her short stories under the Goldport Press imprint. She intends to bring out her novel Witchfinder (in the same universe as The Magical British Empire Trilogy) under the same imprint in March. Meanwhile, Baen books will continue publishing her space opera and her Shifters Series set in a Colorado Diner.</p>
+<h3>Robert Hoyt</h3>
+<p><img class="alignleft" src="/wp-content/uploads/roberthoytII.jpg" alt="" />Robert Hoyt is a Premedical Student living in Colorado. Starting with his first publication at the age of 14 he has written an array of stories, both novels, including Cat&#8217;s Paw, and short stories, including Bite One Get One Free. He also writes and draws the webcomic Ninja Nun and keeps his four cats entertained.</p>
+<h3>Sam Knight</h3>
+<p><img class="alignleft" src="/wp-content/uploads/SamKnight.JPG" alt="" />A Colorado native, Sam Knight spent ten years in California&#8217;s wine country before returning to the Rockies. When asked if he misses California, he gets a wistful look in his eyes and replies he misses the green mountains in the winter, but he is glad to be back home. Among other things, he is the author of A Whiskey Jack in a Murder of Crows, his new thriller novel which will come into being right here before your very eyes at AnomalyCon, as well as Captain Samjack’s Terror Emporium, one of the Steampunk stories in Penny Dread Tales Volume Three, also coming to life here at AnomalyCon.<br />
+A stay-at-home father, Sam attempts to be a full-time writer, but there are just so many hours left in a day after kids. Once upon a time, he was known to quote books the way some people quote movies, but now he claims having a family has made him forgetful, as a survival adaptation. He can be found at SamKnight.com and contacted at Sam@samknight.com</p>
+<h3>Terry Kroenung</h3>
+<p><img class="alignleft" src="/wp-content/uploads/TerryK.jpg" alt="" />Terry Kroenung teaches Bartitsu, the mixed martial art of the late Victorian era that precipitated the dastardly Professor Moriarty to his well-earned doom. When not employing bumbershoots and savate kicks to dispatch ruffians, he writes snarky fantasy novels such as <em>Brimstone and Lily</em> and <em>Jasper&#8217;s Foul Tongue</em>. Book 3 in the series, <em>Jasper&#8217;s Magick Corset</em>, will be published in May and features weaponry devised by Captain Nemo. <em>Paragon of the Eccentric</em>, his Steampunk prequel to <em>War of the Worlds</em> with a James Bond twist, is languishing on an editor&#8217;s desk at Tor.</p>
+<h3>David B. Riley</h3>
+<p><img class="alignleft" src="/wp-content/uploads/DavidB.Riley_.jpg" alt="" />David B. Riley is an active member of the HWA and the author of 6 novels and 100 short stories, He has edited six anthologies and Science Fiction Trails, an annual magazine which is now in its eighth year.<br />
+Personal blog:<br />
+<a href="http://sftrails.blogspot.com/" rel="noopener">http://sftrails.blogspot.com/</a><br />
+Business website:<br />
+<a href="http://www.sciencefictiontrails.com" rel="noopener">www.sciencefictiontrails.com</a></p>
+<h3>Mark Stone</h3>
+<p><img class="alignleft" src="/wp-content/uploads/MStone.jpg" alt="" />Born in Helsinki, Finland (The Land of the Uncommonly Stubborn), Mark Everett Stone arrived in the U.S. at a young age and promptly dove into the world of the fantastic. Starting at age seven with the Iliad and the Odyssey, he went on to consume every scrap of Norse Mythology he could get his grubby little paws on. At age thirteen he graduated to Tolkien and Heinlein, building up a book collection that soon rivaled the local public library’s.<br />
+In college Mark majored in Journalism and minored in English. The newspaper business wasn’t for him, so he did what every good writer does: find work in a wide variety of fields that included catering, bartending, and restaurant management. After getting married, he sold Hyundais (before they became popular) and, because he lives in Colorado, Subarus. Eventually he matured enough to be able to sit down and just write.<br />
+Currently Mark is working on his newest novel &#8220;Chicago: The Windigo City&#8221; and has two more coming out very soon: &#8220;I left my Haunt in San Francisco&#8221; and &#8220;The Judas Line&#8221;. Both from Camel Press. Recently, he has been featured in the Arts and Entertainment section of the Denver Post.</p>
+<h3>Carrie Vaughn</h3>
+<p><img class="alignleft" src="/wp-content/uploads/CarrieV1.jpg" alt="" />Carrie Vaughn is the author of fourteen novels, including the bestselling Kitty Norville urban fantasy series, and over fifty short stories in various genres, because she just can’t stick to one thing, because that would be boring. She’s been nominated for a Hugo Award, is a graduate of the Odyssey Fantasy Writing Workshop, and has a masters degree in English literature. She’s studied Victorian pulp fiction, makes costumes in her spare time, and generally collects more hobbies than she knows what to do with. She lives in Colorado, and you can visit her at www.carrievaughn.com.</p>
+<h3>Peter J. Wacks</h3>
+<p><img class="alignleft" src="/wp-content/uploads/Peter.jpg" alt="" />Peter J. Wacks, creative director and writer for the steampunk project www.Fairypunkstories.com, was born in California sometime during 1976. Maybe. It was a good year to allegedly be born in. He has always been amazed and fascinated by both writing and the world in general, and has worked in everything from waiting tables to designing games.<br />
+Throughout the course of his life, he has hitchhiked across the States and backpacked across Europe on the Eurail. He likes reading, watching movies, playing video games, and playing tabletop games. He also studies martial arts and philosophy. Just in case you were wondering, he loves strawberry daiquiris, and you are welcome to mail him one (can you tell he likes his postman?). His relevant website is www.PeterJWacks.com</p>
+<h3>Gary Wilson</h3>
+<p><img class="alignleft" src="/wp-content/uploads/GaryWilson.jpg" alt="" />Gary Wilson grew up in the town of Ogdensburg, New Jersey. He graduated from Sussex Vo-Tech in 1981, majoring in Commercial Art and photography. He enlisted in the Army, serving for three years. Wilson used his military experience to glimpse into the future of the military in the “Defense Force” series.<br />
+In his first book The Triangle, the United States faces the threat of a “dirty bomb,” Major Tucker and the 27th Air Wing of the American Defense Force is deployed to prevent the attack. While locked in combat over the Bermuda Triangle, the combatants begin to disappear into thin air. The former enemies are forced to rely on each other as they face unfathomable obstacles.</p>
+<p>He is currently working on two novels: One a Southwest paranormal novel: US Marshals Division Two- Book: One” Zompire’s curse. A US Marshal whose wife has been cursed by a voodoo priestess as revenge for killing her son. So the Marshal has to not only stop the priestess, he has to save the wife from the curse.<br />
+The second is a Southwest Steam punk novel Marshal Keller and the Black heart gang. The town of Palomas Springs is under siege by a ruthless killer named Frank “Blackheart” Jordan. They hire former US Marshal Jacob Keller and his associate Professor Higgstrom, whose inventions include a steam powered war wagon, a wireless communications system and an electrified fence. Will they succeed or will Jordan and his gang prevail?</p>
+<h2><a name="music"></a>Performance Guests</h2>
+<h3>SPOTLIGHT: Jon Magnificent</h3>
+<p><img class="alignleft" src="/wp-content/uploads/Jon-Magnificent.jpg" alt="" />Jon Magnificent<br />
+Time-lord.<br />
+Airship Captain.<br />
+Sword For Hire.<br />
+Musician.<br />
+Has been seen on Americas Got Talent Season 6, nominated twice on the 2009 GRAMMY Ballot, several Hollywood Red Carpets for winning awards for Orchestral Composer of the Year (2008), Rock Album of the Year (2010), Rock Artist of the Year (2011) and International Steampunk Band of the Year (2011), nominated for Male Vocalist of the Year and Rock Album of the Year (2012) at the Los Angeles Music Awards, and he can also be seen in the 2013 release of hard cover book International Steampunk Fashions by Victoriana Lady Lisa.</p>
+<p>www.JonMagnificent.com<br />
+<a href="https://www.facebook.com/MagnificentFans">www.facebook.com/MagnificentFans</a></p>
+<h3>Echoes of Orpheus</h3>
+<p><img class="alignleft" src="/wp-content/uploads/echosII.jpg" alt="" />Echoes of Orpheus is a recently formed band branching out into the world of alternative rock. The band currently boasts Requiem (vocals), Kyra Connolly (vocals and guitar), Amity Rose (violin, keyboard and harmonies) and as a special one-time treat, Dr. Absynth, our official music arranger who will be joining us on stage for this show,. They are in the process of creating their first album and are thoroughly excited to be here at Anomaly Con!</p>
+<h3>Denver Diamond Dolls</h3>
+<p><img class="alignleft" src="/wp-content/uploads/DiamondDolls.jpg" alt="" />The Denver Diamond Dolls dance troupe is an all-female ensemble from Denver, Colorado, dedicated to celebrating and empowering women through dance. Run by Becky Vigil, the group was formed in January of 2011. All women are welcome to join! For more info:<br />
+Email: denverdiamonddolls@gmail.com<br />
+Website: http://www.denverdiamonddolls.com<br />
+Facebook: https://www.facebook.com/denverdiamonddolls<br />
+Upcoming: RockyMountainGirlJam.com, May 10-12, 2013</p>
+<h3>Pandora Celtica</h3>
+<p><img class="alignleft" src="/wp-content/uploads/PandoraCeltica1.jpg" alt="" />We are Pandora Celtica, a dark faerie Celtic acappella band from the land of dreams and myth. The Queens and Kings of the Fae have ordered the creation of our band that we may be a beacon of magic and high art in the mundane realms, both for the mortals and for you, our fellow Bright Beings, who make your home here. Joining us for the third year by popular demand&#8211;<a href="http://www.pandoraceltica.com">Pandora Celtica!</a></p>
+<h3>Plasmacrash</h3>
+<p><img class="alignleft" src="/wp-content/uploads/PCBandWeb.jpg" alt="" width="388" height="388" />Started at the end of the 2005 Colorado Dark Arts Festival, Plasmacrash was formed by college radio DJ&#8217;s Asbestos (then known as Big Tim) and Rivet. Over the years the band has refined their sound and filled out their lineup, to become the band they are today.<br />
+Plasmacrash have rattled the walls of venues all over Colorado, including the famous Aggie Theatre in Fort Collins. The band is always looking to conquer new territory with their &#8220;Music for the Post-Apocalypse&#8221; and is always looking to play shows locally and abroad. In addition to headlining several their own shows, they have also shared the stage with several national acts including Roughhausen, Slick Idiot, Cynergy 67, and Babyland.</p>
+<h3>The Silent Still</h3>
+<p><img class="alignleft" src="/wp-content/uploads/silentstill.jpg" alt="" />Progressive Hard Rock band, The Silent Still, has positioned themselves as the public face of The Silent Still Society in the digital age. They paint a tapestry of creativity that has been compared to if Tool, 30 Seconds to Mars, Chevelle, and Nine Inch Nails were crossed with Edgar Allan Poe, H.P. Lovecraft, and Neil Gaiman in a Neo-Victorian World. The band has successfully embodied in music, art, and storytelling, The Silent Still Society’s rich history of creative expression and helping people break free from their personal Hells and live to their full potential, from the Society’s amazing stories, to their work in creative expression and personal growth.</p>
+<h3>White Collar Sideshow</h3>
+<p><img class="alignleft" src="/wp-content/uploads/WhiteCollar.jpg" alt="" width="389" height="260" />By combining new music and an original film-White Collar Sideshow brings you a provocative live performance you will never forget!<br />
+&#8220;One part band &amp; one part film, like watching a movie with a live soundtrack!&#8221; &#8220;A wall of insanity with a modern vaudeville twist; a very fine spectacle to say the least!!&#8221;<br />
+From the mind of T.D. Benton, alongside Travis Joiner (777 productions) and master producer/engineer Chris Baseford (Rob Zombie, Tommy Lee, John 5) a new chapter of our life begins with our first full-length recording, full-feature film and new performance, titled “The WitcHunt”<br />
+Based on actual events, we take you on an innovative-thrilling and stimulating roller coaster ride through life &amp; tragedy.<br />
+A crash course through strange &amp; unusual events that could occur at any place and time, if we allow it.<br />
+T.D. Benton (vocals, drums) brings back the creative and clever players:<br />
+&#8230;the brutal Herr Schwein (drums)<br />
+&#8230;the always creepy Leech (perc)<br />
+&#8230;and the lovely but mysterious Faceless Woman (bass)<br />
+Together these characters bring you a chilling and somewhat haunting performance on the soul. Before we point our fingers at each other, what is it that consumes our hearts and minds? What are the vices that haunt and torture our lives?<br />
+Traveling the arterial highways full of passion and purpose! Looking for the amazing and spectacular, the loving and orgiving. Searching for faith and the unknown.<br />
+Rebuilding our minds, and burning our fossil fuel trying to figure out how to exemplify true life, our gypsy journey starts once again! <a href="http://whitecollarsideshow.com/fr_thewitchunt.cfm" rel="noopener">White Collar Sideshow.</a></p>
+<h3>The Vagabond Misfits</h3>
+<p><img class="size-medium wp-image-621 alignleft" src="http://www.anomalycon.com/wp-content/uploads/2012/04/The-Vagabond-Misfits-240x300.jpg" alt="The Vagabond Misfits" width="240" height="300" />The Vagabond Misfits are a Steampunk inspired troupe with burlesque, vaudevillian, musicians, belly dancers, and many other styles of talent. We present the classy world of the performing arts in all eras of time. The Vagabond Misfits celebrate men and woman of all races, shapes, and sizes. We recognize that everyone has their own unique and individual beauty. No matter where they are from, what their clothing size is, or their choice in life style, we are all Misfits that need to stand up and be proud!</p>
+	</div><!-- .entry-content -->
+
+	
+</article><!-- #post-## -->
+
+	</main><!-- .site-main -->
+
+	
+</div><!-- .content-area -->
+
+
+	<aside id="secondary" class="sidebar widget-area" role="complementary">
+		<section id="nav_menu-3" class="widget widget_nav_menu"><h2 class="widget-title">AnomalyCon</h2><div class="menu-anomalycon-container"><ul id="menu-anomalycon" class="menu"><li id="menu-item-1194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1194"><a href="https://www.anomalycon.com/anomalycon-2011/">AnomalyCon 2011</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1195"><a href="https://www.anomalycon.com/anomalycon-2011/2011-guests/">2011 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-523"><a href="https://www.anomalycon.com/anomalycon-2012/">AnomalyCon 2012</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1155"><a href="https://www.anomalycon.com/anomalycon-2012/2012-guests/">2012 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-522" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-522"><a href="https://www.anomalycon.com/anomalycon-2013/">AnomalyCon 2013</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1156" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-113 current_page_item menu-item-1156"><a href="https://www.anomalycon.com/anomalycon-2013/2013-guests/">2013 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-526"><a href="https://www.anomalycon.com/anomalycon-2014/">AnomalyCon 2014</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1164"><a href="https://www.anomalycon.com/anomalycon-2014/2014-guests/">2014 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-525"><a href="https://www.anomalycon.com/anomalycon-2015/">AnomalyCon 2015</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1171"><a href="https://www.anomalycon.com/anomalycon-2015/2015-guests/">2015 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-524"><a href="https://www.anomalycon.com/anomalycon-2016/">AnomalyCon 2016</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1176"><a href="https://www.anomalycon.com/anomalycon-2016/2016-guests/">2016 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-594"><a href="https://www.anomalycon.com/anomalycon-2017/">AnomalyCon 2017</a>
+<ul  class="sub-menu">
+	<li id="menu-item-595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-595"><a href="https://www.anomalycon.com/anomalycon-2017/2017-guests/">2017 Guests</a></li>
+	<li id="menu-item-520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-520"><a href="https://www.anomalycon.com/anomalycon-2017/contests/">2017 Contests</a></li>
+</ul>
+</li>
+<li id="menu-item-509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-509"><a href="https://www.anomalycon.com/mission/">Our Mission</a></li>
+<li id="menu-item-1212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1212"><a href="https://www.anomalycon.com/policies/">Our Policies</a></li>
+</ul></div></section><section id="linkcat-3" class="widget widget_links"><h2 class="widget-title">Social Media</h2>
+	<ul class='xoxo blogroll'>
+<li><a href="https://www.facebook.com/AnomalyCon" rel="me">Facebook</a></li>
+<li><a href="https://plus.google.com/+Anomalycon" rel="me">Google+</a></li>
+<li><a href="https://www.instagram.com/anomalyconofficial/" rel="me">Instagram</a></li>
+<li><a href="http://anomalycon.tumblr.com/" rel="me">tumblr.</a></li>
+<li><a href="https://twitter.com/anomalycon" rel="me">Twitter</a></li>
+<li><a href="http://www.youtube.com/user/AnomalyCon" rel="me">YouTube</a></li>
+
+	</ul>
+</section>
+	</aside><!-- .sidebar .widget-area -->
+
+		</div><!-- .site-content -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+			
+			
+			<div class="site-info">
+								<span class="site-title"><a href="https://www.anomalycon.com/" rel="home">AnomalyCon</a></span>
+				<a href="https://wordpress.org/">Proudly powered by WordPress</a>
+			</div><!-- .site-info -->
+		</footer><!-- .site-footer -->
+	</div><!-- .site-inner -->
+</div><!-- .site -->
+
+<script type='text/javascript' src='https://www.anomalycon.com/wp-content/themes/twentysixteen/js/skip-link-focus-fix.js?ver=20160816'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.anomalycon.com/wp-content/themes/twentysixteen/js/functions.js?ver=20160816'></script>
+<script type='text/javascript' src='https://www.anomalycon.com/wp-includes/js/wp-embed.min.js?ver=4.8.1'></script>
+</body>
+</html>

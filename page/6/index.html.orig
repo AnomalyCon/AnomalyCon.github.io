@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+		<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>AnomalyCon &#8211; Page 6 &#8211; Colorado&#039;s First and Former Steampunk and Alternate History Convention</title>
+<link rel='stylesheet' id='genericons-css'  href='https://www.anomalycon.com/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-style-css'  href='https://www.anomalycon.com/wp-content/themes/twentysixteen/style.css?ver=4.8.1' type='text/css' media='all' />
+<style id='twentysixteen-style-inline-css' type='text/css'>
+
+		/* Custom Page Background Color */
+		.site {
+			background-color: #f8ecc2;
+		}
+
+		mark,
+		ins,
+		button,
+		button[disabled]:hover,
+		button[disabled]:focus,
+		input[type="button"],
+		input[type="button"][disabled]:hover,
+		input[type="button"][disabled]:focus,
+		input[type="reset"],
+		input[type="reset"][disabled]:hover,
+		input[type="reset"][disabled]:focus,
+		input[type="submit"],
+		input[type="submit"][disabled]:hover,
+		input[type="submit"][disabled]:focus,
+		.menu-toggle.toggled-on,
+		.menu-toggle.toggled-on:hover,
+		.menu-toggle.toggled-on:focus,
+		.pagination .prev,
+		.pagination .next,
+		.pagination .prev:hover,
+		.pagination .prev:focus,
+		.pagination .next:hover,
+		.pagination .next:focus,
+		.pagination .nav-links:before,
+		.pagination .nav-links:after,
+		.widget_calendar tbody a,
+		.widget_calendar tbody a:hover,
+		.widget_calendar tbody a:focus,
+		.page-links a,
+		.page-links a:hover,
+		.page-links a:focus {
+			color: #f8ecc2;
+		}
+
+		@media screen and (min-width: 56.875em) {
+			.main-navigation ul ul li {
+				background-color: #f8ecc2;
+			}
+
+			.main-navigation ul ul:after {
+				border-top-color: #f8ecc2;
+				border-bottom-color: #f8ecc2;
+			}
+		}
+	
+
+		/* Custom Link Color */
+		.menu-toggle:hover,
+		.menu-toggle:focus,
+		a,
+		.main-navigation a:hover,
+		.main-navigation a:focus,
+		.dropdown-toggle:hover,
+		.dropdown-toggle:focus,
+		.social-navigation a:hover:before,
+		.social-navigation a:focus:before,
+		.post-navigation a:hover .post-title,
+		.post-navigation a:focus .post-title,
+		.tagcloud a:hover,
+		.tagcloud a:focus,
+		.site-branding .site-title a:hover,
+		.site-branding .site-title a:focus,
+		.entry-title a:hover,
+		.entry-title a:focus,
+		.entry-footer a:hover,
+		.entry-footer a:focus,
+		.comment-metadata a:hover,
+		.comment-metadata a:focus,
+		.pingback .comment-edit-link:hover,
+		.pingback .comment-edit-link:focus,
+		.comment-reply-link,
+		.comment-reply-link:hover,
+		.comment-reply-link:focus,
+		.required,
+		.site-info a:hover,
+		.site-info a:focus {
+			color: #5f3913;
+		}
+
+		mark,
+		ins,
+		button:hover,
+		button:focus,
+		input[type="button"]:hover,
+		input[type="button"]:focus,
+		input[type="reset"]:hover,
+		input[type="reset"]:focus,
+		input[type="submit"]:hover,
+		input[type="submit"]:focus,
+		.pagination .prev:hover,
+		.pagination .prev:focus,
+		.pagination .next:hover,
+		.pagination .next:focus,
+		.widget_calendar tbody a,
+		.page-links a:hover,
+		.page-links a:focus {
+			background-color: #5f3913;
+		}
+
+		input[type="date"]:focus,
+		input[type="time"]:focus,
+		input[type="datetime-local"]:focus,
+		input[type="week"]:focus,
+		input[type="month"]:focus,
+		input[type="text"]:focus,
+		input[type="email"]:focus,
+		input[type="url"]:focus,
+		input[type="password"]:focus,
+		input[type="search"]:focus,
+		input[type="tel"]:focus,
+		input[type="number"]:focus,
+		textarea:focus,
+		.tagcloud a:hover,
+		.tagcloud a:focus,
+		.menu-toggle:hover,
+		.menu-toggle:focus {
+			border-color: #5f3913;
+		}
+
+		@media screen and (min-width: 56.875em) {
+			.main-navigation li:hover > a,
+			.main-navigation li.focus > a {
+				color: #5f3913;
+			}
+		}
+	
+</style>
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='twentysixteen-ie-css'  href='https://www.anomalycon.com/wp-content/themes/twentysixteen/css/ie.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentysixteen-ie8-css'  href='https://www.anomalycon.com/wp-content/themes/twentysixteen/css/ie8.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentysixteen-ie7-css'  href='https://www.anomalycon.com/wp-content/themes/twentysixteen/css/ie7.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.anomalycon.com/wp-content/themes/twentysixteen/js/html5.js?ver=3.7.3'></script>
+<![endif]-->
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+			<style type="text/css" id="twentysixteen-header-css">
+		.site-branding {
+			margin: 0 auto 0 0;
+		}
+
+		.site-branding .site-title,
+		.site-description {
+			clip: rect(1px, 1px, 1px, 1px);
+			position: absolute;
+		}
+	</style>
+	<link rel="icon" href="https://www.anomalycon.com/wp-content/uploads/2016/03/favicon.gif" sizes="32x32" />
+<link rel="icon" href="https://www.anomalycon.com/wp-content/uploads/2016/03/favicon.gif" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.anomalycon.com/wp-content/uploads/2016/03/favicon.gif" />
+<meta name="msapplication-TileImage" content="https://www.anomalycon.com/wp-content/uploads/2016/03/favicon.gif" />
+</head>
+
+<body class="home blog paged paged-6 group-blog hfeed">
+<div id="page" class="site">
+	<div class="site-inner">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<header id="masthead" class="site-header" role="banner">
+			<div class="site-header-main">
+				<div class="site-branding">
+					
+											<h1 class="site-title"><a href="https://www.anomalycon.com/" rel="home">AnomalyCon</a></h1>
+											<p class="site-description">Colorado&#039;s First and Former Steampunk and Alternate History Convention</p>
+									</div><!-- .site-branding -->
+
+							</div><!-- .site-header-main -->
+
+											<div class="header-image">
+					<a href="https://www.anomalycon.com/" rel="home">
+						<img src="https://www.anomalycon.com/wp-content/uploads/2017/07/AnomalyCon.png" srcset="https://www.anomalycon.com/wp-content/uploads/2017/07/AnomalyCon-300x75.png 300w, https://www.anomalycon.com/wp-content/uploads/2017/07/AnomalyCon-768x192.png 768w, https://www.anomalycon.com/wp-content/uploads/2017/07/AnomalyCon.png 800w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 81vw, (max-width: 1362px) 88vw, 1200px" width="800" height="200" alt="AnomalyCon">
+					</a>
+				</div><!-- .header-image -->
+					</header><!-- .site-header -->
+
+		<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+			
+			
+<article id="post-172" class="post-172 post type-post status-publish format-standard hentry category-anomalycon-2014">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="https://www.anomalycon.com/anomalycon-2014/more-guest-announcements/" rel="bookmark">More guest announcements!</a></h2>	</header><!-- .entry-header -->
+
+				<div class="entry-summary">
+				<p>Kevin J. Anderson has been asked by his publisher to attend one of the largest comic cons in the US as their author guest of honor to launch MENTATS OF DUNE (with Brian Herbert also attending) and his steampunk graphic novel CLOCKWORK ANGELS from Boom! As such he will not be able to attend AnomalyCon, but James A. Owen of Imaginarium Geographica and Starchild fame has graciously agreed to take his place.</p>
+			</div><!-- .entry-summary -->
+		
+	
+	<div class="entry-content">
+		<p>Kevin J. Anderson has been asked by his publisher to attend one of the largest comic cons in the US as their author guest of honor to launch MENTATS OF DUNE (with Brian Herbert also attending) and his steampunk graphic novel CLOCKWORK ANGELS from Boom! As such he will not be able to attend AnomalyCon, but James A. Owen of Imaginarium Geographica and Starchild fame has graciously agreed to take his place.</p>
+<p>Additionally, pre-registration is only $25 through the end of the year. On 1 January prices go up to $30 for the weekend. The first 300 pre-registrations TO PICK UP THEIR BADGE at the convention will get a free signed hardcover copy of Kevin J. Anderson&#8217;s epic novel &#8220;The Martian War.&#8221;</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span> <a class="url fn n" href="https://www.anomalycon.com/author/curucar/">Curucar</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://www.anomalycon.com/anomalycon-2014/more-guest-announcements/" rel="bookmark"><time class="entry-date published" datetime="2013-12-30T11:42:42+00:00">December 30, 2013</time><time class="updated" datetime="2016-03-30T18:09:08+00:00">March 30, 2016</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.anomalycon.com/category/anomalycon-2014/" rel="category tag">AnomalyCon 2014</a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-170" class="post-170 post type-post status-publish format-standard hentry category-anomalycon-2014">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="https://www.anomalycon.com/anomalycon-2014/volunteer-meetings-dates-and-times/" rel="bookmark">Volunteer Meetings: dates and times</a></h2>	</header><!-- .entry-header -->
+
+				<div class="entry-summary">
+				<p>It&#8217;s that time of year again! Time to start thinking about being an awesome volunteer for AnomalyCon! You get to be a roll model for the other guests AND we feed and give you awesome stuff. We just ask that you attend one of the 6+ meetings before the con.</p>
+<p><b>Sunday, January 5th    1:30 &#8211; 3:30</b><br />
+Castlewood Library<br />
+Paul Manion Meeting Room (The only meeting room)<br />
+6739 S. Uinta Street Centennial, CO 80112</p>
+<p><b>Saturday, February 1st    1:30 &#8211; 3:30</b><br />
+Lone Tree Library<br />
+Community Meeting Room (The only meeting room)<br />
+8827 Lone Tree Pkwy., Lone Tree, CO 80124</p>
+			</div><!-- .entry-summary -->
+		
+	
+	<div class="entry-content">
+		<p>It&#8217;s that time of year again! Time to start thinking about being an awesome volunteer for AnomalyCon! You get to be a roll model for the other guests AND we feed and give you awesome stuff. We just ask that you attend one of the 6+ meetings before the con.</p>
+<p><b>Sunday, January 5th    1:30 &#8211; 3:30</b><br />
+Castlewood Library<br />
+Paul Manion Meeting Room (The only meeting room)<br />
+6739 S. Uinta Street Centennial, CO 80112</p>
+<p><b>Saturday, February 1st    1:30 &#8211; 3:30</b><br />
+Lone Tree Library<br />
+Community Meeting Room (The only meeting room)<br />
+8827 Lone Tree Pkwy., Lone Tree, CO 80124<br />
+&#8211; This volunteer meeting is funded and presented by AnomalyCon and is not sponsored by Douglas County Libraries. For more information, please contact us http://www.anomalycon.com/contact.</p>
+<p><b>Thursday, February 6th    6:30 &#8211; 8:30</b><br />
+Castlewood Library<br />
+Paul Manion Meeting Room (The only meeting room)<br />
+6739 S. Uinta Street Centennial, CO 80112</p>
+<p><b>Saturday, February 8th    1:30 &#8211; 3:30</b><br />
+Koelbel Library<br />
+Meeting Room A<br />
+5955 S. Holly Street Centennial, CO 80121</p>
+<p><b>Saturday, March 1st    9:30 &#8211; 11:30</b><br />
+Koelbel Library<br />
+Meeting Room B<br />
+5955 S. Holly Street Centennial, CO 80121</p>
+<p>Saturday March 8th, 11:00-12:30<br />
+Village Inn<br />
+395 West 120th Avenue Westminster, CO 80234<br />
+<a href="https://plus.google.com/117823356627809942985" rel="publisher">Google+</a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span> <a class="url fn n" href="https://www.anomalycon.com/author/curucar/">Curucar</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://www.anomalycon.com/anomalycon-2014/volunteer-meetings-dates-and-times/" rel="bookmark"><time class="entry-date published" datetime="2013-12-16T10:29:42+00:00">December 16, 2013</time><time class="updated" datetime="2016-03-30T18:09:08+00:00">March 30, 2016</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.anomalycon.com/category/anomalycon-2014/" rel="category tag">AnomalyCon 2014</a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-167" class="post-167 post type-post status-publish format-standard hentry category-anomalycon-2014">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="https://www.anomalycon.com/anomalycon-2014/new-guest-announcements-and-tracy-hickman-is-coming-to-town-with-his-killer-breakfast/" rel="bookmark">New Guest Announcements &#8211; And Tracy Hickman is coming to town with his Killer Breakfast!</a></h2>	</header><!-- .entry-header -->
+
+				<div class="entry-summary">
+				<p>We have a whole bundle of new guests to announce&#8211;including the fact that Pandora Celtica is once again joining us! We&#8217;re excited to have them!</p>
+<p>This year&#8217;s Spotlight Guests now include Kevin J. Anderson, Tracy Hickman, and Trai Cartwright!</p>
+			</div><!-- .entry-summary -->
+		
+	
+	<div class="entry-content">
+		<p>We have a whole bundle of new guests to announce&#8211;including the fact that Pandora Celtica is once again joining us! We&#8217;re excited to have them!</p>
+<p>This year&#8217;s Spotlight Guests now include Kevin J. Anderson, Tracy Hickman, and Trai Cartwright!</p>
+<p>Tracy Hickman is well known to the gaming and fantasy community, especially for his Dragonlance novel series. He also hosts a really cool event called Killer Breakfast, and this year we&#8217;re bringing it to AnomalyCon! Saturday morning at 9AM for an extra $5 attendees can join Tracy for donuts, coffee, and the chance to pit their level one characters against ultimate death! <a href="http://www.dragonhearthproductions.com/killerbreakfast.html">Here&#8217;s a cool explanation of what Killer Breakfast looks like.</a></p>
+<p>Kevin J Anderson is probably one of the most published writers of our time. He&#8217;s well on his way to overtaking Isaac Asimov, and he&#8217;s certainly one of the best sources we can think of for both self publishing and big name publishing. He&#8217;s written Dune, Star Wars, Steampunk, and so much more.</p>
+<p>Trai Cartwright is singlehandedly the coolest lady you haven&#8217;t met yet. She&#8217;s been batting in the big leagues of Hollywood for years, written, edited and pitched every genre under the sun, and she teaches amazing masterwork classes to teens and grownups alike. She knows how to hit it big, and she&#8217;s here to share the knowledge.  </p>
+<p>Peter J Wacks is the local expert on time travel, or so his doppelganger would have you believe. We&#8217;ve heard from his writing side, but this year he&#8217;s here to talk about self publishing, editing, and more. </p>
+<p>Our programming this year is growing by leaps and bounds, and we&#8217;re so excited to share all of our writing, editing, publishing and business tracks with our audience. Don&#8217;t miss all the fun! Pre-registration is still only $25 for the whole weekend, and tickets for Killer Breakfast are available at registration!</p>
+<p>BY CHANCE YOU HAVEN&#8217;T READ THE ANNOUNCEMENT HIGHER UP ON THIS PAGE:<br />
+Kevin J. Anderson has been asked by his publisher to attend one of the largest comic cons in the US as their author guest of honor to launch MENTATS OF DUNE (with Brian Herbert also attending) and his steampunk graphic novel CLOCKWORK ANGELS from Boom! As such he will not be able to attend AnomalyCon, but James A. Owen of Imaginarium Geographica and Starchild fame has graciously agreed to take his place.</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span> <a class="url fn n" href="https://www.anomalycon.com/author/perry-wilder/">Perry Wilder</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://www.anomalycon.com/anomalycon-2014/new-guest-announcements-and-tracy-hickman-is-coming-to-town-with-his-killer-breakfast/" rel="bookmark"><time class="entry-date published" datetime="2013-10-10T20:04:57+00:00">October 10, 2013</time><time class="updated" datetime="2016-03-30T18:09:08+00:00">March 30, 2016</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.anomalycon.com/category/anomalycon-2014/" rel="category tag">AnomalyCon 2014</a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-156" class="post-156 post type-post status-publish format-standard hentry category-anomalycon-2014">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="https://www.anomalycon.com/anomalycon-2014/drink-contest/" rel="bookmark">Drink Contest!</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>AnomalyCon is seeking an official mixed drink and we&#8217;re turning to our closest fans to help us find it! Between now and November 1st we&#8217;re seeking mixed drink suggestions, both of the alcoholic and virgin variety, as well as names for them. During November we will be narrowing down all of the suggestions to the top three. Finally, during the annual Colorado Steampunks New Year&#8217;s Eve Eve party we&#8217;ll be serving these drinks up and voting on the winner. These two drinks will be served at AnomalyCon 2014 at the hotel bar. What&#8217;s in it for you? FAME AND PRIZES! The three finalists from November will all receive an AnomalyCon lapel pin and the winner in each category will receive the top secret object we are working on for 2014. You do not have to submit a cocktail recipe to submit a name, and vice versa&#8211;if one person wins for name and another for drink recipe they will both be awarded a prize! You&#8217;ll also get your name alongside the drink recipe in the 2014 AnomalyCon program!</p>
+<p>To enter, comment on <a href="https://www.facebook.com/AnomalyCon/posts/538494149549571">this post</a> with your entry name or recipe. If multiple people enter the same name or recipe, the first one to post will be considered the original. You may also send us your suggestion through our Contact form.</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span> <a class="url fn n" href="https://www.anomalycon.com/author/curucar/">Curucar</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://www.anomalycon.com/anomalycon-2014/drink-contest/" rel="bookmark"><time class="entry-date published" datetime="2013-08-28T14:21:48+00:00">August 28, 2013</time><time class="updated" datetime="2017-09-17T18:34:38+00:00">September 17, 2017</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.anomalycon.com/category/anomalycon-2014/" rel="category tag">AnomalyCon 2014</a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-155" class="post-155 post type-post status-publish format-standard hentry category-anomalycon-2014">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="https://www.anomalycon.com/anomalycon-2014/even-more-guest-announcements-and-now-we-have-a-concert-schedule/" rel="bookmark">EVEN MORE GUEST ANNOUNCEMENTS! &#8211; And now we have a concert schedule!</a></h2>	</header><!-- .entry-header -->
+
+				<div class="entry-summary">
+				<p>AnomalyCon continues to schedule more guests throughout the year, and we&#8217;re excited to bring you even more amazing talent!</p>
+<p>In Artists:<br />
+We&#8217;ve confirmed Sean Tiffany, of <a hre="oilcandrive.com/‎">Oil Can Drive!</a></p>
+<p>In Authors:<br />
+A.L. Kessler joins us, of paranormal romance fame. <a href="http://www.amylkessler.com/">Check out her website!</a><br />
+Christopher M. Salas also joins us with the Dark Eclipse and Curses and Demons serials. <a href="http://www.amazon.com/Christopher-M.-Salas/e/B004V92X6U">His books are on Amazon!</a></p>
+<p>For Performers:<br />
+So many joining us!</p>
+			</div><!-- .entry-summary -->
+		
+	
+	<div class="entry-content">
+		<p>AnomalyCon continues to schedule more guests throughout the year, and we&#8217;re excited to bring you even more amazing talent!</p>
+<p>In Artists:<br />
+We&#8217;ve confirmed Sean Tiffany, of <span style="color: #000000;">Oil Can Drive!</span></p>
+<p>In Authors:<br />
+A.L. Kessler joins us, of paranormal romance fame. <a href="http://www.amylkessler.com/">Check out her website!</a><br />
+Christopher M. Salas also joins us with the Dark Eclipse and Curses and Demons serials. <a href="http://www.amazon.com/Christopher-M.-Salas/e/B004V92X6U">His books are on Amazon!</a></p>
+<p>For Performers:<br />
+So many joining us!<br />
+<a href="https://www.facebook.com/KeldariStation">Keldari Station</a> brings a time traveling synthesizer to the stage.<br />
+James Gold will make your sides ache from laughing.<br />
+Rachel Renee make you laugh even harder.<br />
+And we&#8217;re now proud to announce a group of Jpop/KPOP dancers have joined our ranks to dance the night away with Strange Artifact.<br />
+You can see their preliminary videos from a concert they participated in here:</p>
+<p>Tina Le:<br />
+<iframe src="https://www.youtube.com/embed/vEVa_r-TBz8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Lisa Le:<br />
+<iframe src="https://www.youtube.com/embed/T8W1N_mJ-iI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Faye:<br />
+<iframe src="https://www.youtube.com/embed/vVEwzp3ZgHo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Su Cho:<br />
+<iframe src="https://www.youtube.com/embed/mL9qt7T1a2I" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Torng:<br />
+<iframe src="https://www.youtube.com/embed/l-pHli1TSu8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>And Sophia:<br />
+<iframe src="https://www.youtube.com/embed/8Bi7q1FvuOg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>We&#8217;ll have more from them as the year progresses!<br />
+Before you ask&#8211;you&#8217;re right, they aren&#8217;t strictly steampunk. But we can&#8217;t help but love teenagers so talented, and they&#8217;re choreographing to Steampunk music&#8211;so celebrate the revolution with us! Concert details are available on our website HERE.</p>
+<p>We can&#8217;t wait to see you there!</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span> <a class="url fn n" href="https://www.anomalycon.com/author/kseibert/">kseibert</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://www.anomalycon.com/anomalycon-2014/even-more-guest-announcements-and-now-we-have-a-concert-schedule/" rel="bookmark"><time class="entry-date published" datetime="2013-08-25T07:27:36+00:00">August 25, 2013</time><time class="updated" datetime="2017-09-17T18:42:19+00:00">September 17, 2017</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.anomalycon.com/category/anomalycon-2014/" rel="category tag">AnomalyCon 2014</a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-152" class="post-152 post type-post status-publish format-standard hentry category-anomalycon-2014">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="https://www.anomalycon.com/anomalycon-2014/amazing-guest-announcements/" rel="bookmark">AMAZING GUEST ANNOUNCEMENTS!</a></h2>	</header><!-- .entry-header -->
+
+				<div class="entry-summary">
+				<p>Greetings, ladies and gentlemen!</p>
+<p>AnomalyCon is proud to announce yet another round of wonderful guests, some from lands far distant!</p>
+<p>First, please help us welcome <a href="http://www.strangeartifact.jp/">Strange Artifact</a> all the way from Tokyo, Japan! This is only their second time in the United States, and we are so excited to have them!<br />
+Check them out performing live at the Steampunk World Tour in 2012!</p>
+<p><iframe width="560" height="315" src="//www.youtube.com/embed/_98sYmBSFoc" frameborder="0" allowfullscreen></iframe></p>
+			</div><!-- .entry-summary -->
+		
+	
+	<div class="entry-content">
+		<p>Greetings, ladies and gentlemen!</p>
+<p>AnomalyCon is proud to announce yet another round of wonderful guests, some from lands far distant!</p>
+<p>First, please help us welcome <a href="http://www.strangeartifact.jp/">Strange Artifact</a> all the way from Tokyo, Japan! This is only their second time in the United States, and we are so excited to have them!<br />
+Check them out performing live at the Steampunk World Tour in 2012!</p>
+<p><iframe src="//www.youtube.com/embed/_98sYmBSFoc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Joining them on the band front is <a href="https://www.facebook.com/annualband">Clockwork Flamingo</a>, our annual band!<br />
+Also on the lineup is <a href="http://www.reverbnation.com/dangerousnonsense">Dangerous Nonsense</a>, three super chic post-punk chicks who will rock the house.</p>
+<p>Now for the authors! We have confirmed the tea guru and LGBT author<a href="http://blog.viviancaethe.com/">Vivian Caethe</a> is joining us,<br />
+Along with <a href="http://www.airship27.com/">Ron Fortier</a> of Airship27 and Green Hornet among many others,<br />
+And the widely-talented <a href="http://www.xerjester.com/">Xero Reynolds</a> of author/artist/voice actor fame.</p>
+<p>Last, but most certainly not least, we have confirmed these artists so far:<br />
+The incredibly talented multimedia artist Aria, or &#8220;<a href="https://www.facebook.com/ShePaintsWithBlood">ShePaintsWithBlood</a>&#8221;<br />
+And Kira Woodmansee of <a href="http://www.castlewhatsitsname.com/">Castle Whatsitsname</a>!</p>
+<p>Remember that badges are still only $20 for the weekend if you pre-register!<br />
+And hotel rooms are still available at the Marriott for only $85 a night! Hurry while rooms are still available!</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span> <a class="url fn n" href="https://www.anomalycon.com/author/kseibert/">kseibert</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://www.anomalycon.com/anomalycon-2014/amazing-guest-announcements/" rel="bookmark"><time class="entry-date published" datetime="2013-07-16T19:37:13+00:00">July 16, 2013</time><time class="updated" datetime="2017-09-17T18:43:00+00:00">September 17, 2017</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.anomalycon.com/category/anomalycon-2014/" rel="category tag">AnomalyCon 2014</a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-150" class="post-150 post type-post status-publish format-standard hentry category-anomalycon-2014">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="https://www.anomalycon.com/anomalycon-2014/loads-of-new-guest-announcements/" rel="bookmark">LOADS OF NEW GUEST ANNOUNCEMENTS!</a></h2>	</header><!-- .entry-header -->
+
+				<div class="entry-summary">
+				<p>AnomalyCon is EXCITED to announce tons of new guests for the 2014 convention!</p>
+<p>Jan Scott-Frazier (www.janscottfrazier.com) has graciously agreed to MC for AnomalyCon 2014.<br />
+Matthew Ebel (www.matthewebel.com) and Unwoman (www.unwoman.com) will grace our stage to rock the house with their own brands of beautiful and geeky music!<br />
+Steven Harper Piziks (www.stevenpiziks.com) author of the Clockwork Empire<br />
+Jeanne Stein (www.jeannestein.com) Author of the Anna Strong Chronicles</p>
+			</div><!-- .entry-summary -->
+		
+	
+	<div class="entry-content">
+		<p>AnomalyCon is EXCITED to announce tons of new guests for the 2014 convention!</p>
+<p>Jan Scott-Frazier (www.janscottfrazier.com) has graciously agreed to MC for AnomalyCon 2014.<br />
+Matthew Ebel (www.matthewebel.com) and Unwoman (www.unwoman.com) will grace our stage to rock the house with their own brands of beautiful and geeky music!<br />
+Steven Harper Piziks (www.stevenpiziks.com) author of the Clockwork Empire<br />
+Jeanne Stein (www.jeannestein.com) Author of the Anna Strong Chronicles<br />
+O.M. Grey (<a href="http://omgrey.wordpress.com">omgrey.wordpress.com</a>) Author of Avalon Revisited and The Zombies of Mesmer<br />
+Paul Lell (www.kalijor.com) Author of the Kalijor Series<br />
+Guy Anthony de Marco (www.guyanthonydemarco.com) Author of lots of scary stories<br />
+Travis Heermann (www.travisheermann.com) Author of The Wild Boys and more<br />
+A.M. Schilling (www.amschilling.com) Urban Fantasy and Horror Writer<br />
+Josh Vogt (www.JRVogt.com) Action Scene and Publishing Guru</p>
+<p>Many MANY more guest announcements to come! And don&#8217;t forget that AnomalyCon FULL WEEKEND PASSES are still just $15!</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span> <a class="url fn n" href="https://www.anomalycon.com/author/kseibert/">kseibert</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://www.anomalycon.com/anomalycon-2014/loads-of-new-guest-announcements/" rel="bookmark"><time class="entry-date published" datetime="2013-05-20T18:16:55+00:00">May 20, 2013</time><time class="updated" datetime="2016-03-30T18:09:08+00:00">March 30, 2016</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.anomalycon.com/category/anomalycon-2014/" rel="category tag">AnomalyCon 2014</a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-145" class="post-145 post type-post status-publish format-standard hentry category-anomalycon-2013">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="https://www.anomalycon.com/anomalycon-2013/thanks-for-an-amazing-convention/" rel="bookmark">Thanks for an Amazing Convention!</a></h2>	</header><!-- .entry-header -->
+
+				<div class="entry-summary">
+				<p>Thanks everyone for a wonderful 2013! The photographs were wonderful&#8211;check out some great pictures here at http://anomalycon.tumblr.com/!</p>
+<p>We here at AnomalyCon are now in hibernation mode recovering from the weekend, but stay tuned for awesome web updates.<br />
+Next year&#8217;s con is going to be March 28-30 at the Marriott DTC&#8211;can&#8217;t wait to see you all there!</p>
+<p>EDITED FOR EVEN MORE PICTURE LINKS!<br />
+OFFICIAL PRESS:<br />
+<a href="http://www.westword.com/slideshow/50-best-costumes-of-anomalycon-3-39256379/">Westword I</a></p>
+			</div><!-- .entry-summary -->
+		
+	
+	<div class="entry-content">
+		<p>Thanks everyone for a wonderful 2013! The photographs were wonderful&#8211;check out some great pictures here at <a href="http://anomalycon.tumblr.com/">anomalycon.tumblr.com</a> !</p>
+<p>We here at AnomalyCon are now in hibernation mode recovering from the weekend, but stay tuned for awesome web updates.<br />
+Next year&#8217;s con is going to be March 28-30 at the Marriott DTC&#8211;can&#8217;t wait to see you all there!</p>
+<p>EDITED FOR EVEN MORE PICTURE LINKS!<br />
+OFFICIAL PRESS:<br />
+<a href="http://www.westword.com/slideshow/50-best-costumes-of-anomalycon-3-39256379/">Westword I</a><br />
+<a href="http://www.westword.com/slideshow/behind-the-steampunk-scenes-at-anomalycon-3-39256380/">Westword II</a><br />
+<a href="https://www.facebook.com/media/set/?set=a.519437434779243.1073741827.476991049023882&amp;type=1">Detour Photography</a><br />
+<a href="https://www.facebook.com/media/set/?set=a.519019848154335.1073741826.476991049023882&amp;type=3">Detour Photography III</a><br />
+<a href="https://www.facebook.com/AnomalyCon/photos_albums">Official Facebook</a><br />
+<a href="http://anomalycon.tumblr.com/">Official tumblr</a></p>
+<p>ATTENDEES AND OTHER WONDERFUL PEOPLE:<br />
+(in no particular order at all, facebook albums may have privacy settings that hinder individuals from viewing them)<br />
+<a href="https://www.facebook.com/media/set/?set=a.510093969027317.1073741835.144823508887700&amp;type=1">Mr Tofu- friday</a><br />
+<a href="https://www.facebook.com/media/set/?set=a.510248829011831.1073741836.144823508887700&amp;type=1">Mr Tofu- saturday I</a><br />
+<a href="https://www.facebook.com/media/set/?set=a.510634128973301.1073741837.144823508887700&amp;type=1">Mr Tofu- saturday II</a><br />
+<a href="https://www.facebook.com/media/set/?set=a.511005942269453.1073741838.144823508887700&amp;type=1">Mr Tofu- saturday II</a><br />
+<a href="https://www.facebook.com/media/set/?set=a.10101353695804647.1073741826.9630579&amp;type=3">Dalynda Marie</a><br />
+<a href="https://www.facebook.com/media/set/?set=a.10200867796914820.1073741826.1161412829&amp;type=3">Scarlett Barnhill</a><br />
+<a href="https://www.facebook.com/media/set/?set=a.10151604257733169.1073741825.175399793168&amp;type=1">EvilJohn Mays</a><br />
+<a href="https://www.facebook.com/media/set/?set=a.10200666959613473.1073741826.1145200244&amp;type=3">Kimberly Carman</a><br />
+<a href="http://www.lost-letters.com/gallery-anomalycon-3-friday/#.UVra_lf75Jw">Lost Letters- Friday</a><br />
+<a href="http://www.lost-letters.com/anomalycon-3-saturday-and-sunday/#.UV413Ff75Jx">Lost Letters- Saturday and Sunday</a><br />
+<a href="https://www.facebook.com/media/set/?set=a.10100915462602593.1073741825.19225549&amp;type=1">Lindsey Seastone</a><br />
+<a href="https://www.facebook.com/media/set/?set=a.10151642697289881.1073741825.648599880&amp;type=3">Jessica Twiss</a><br />
+<a href="https://www.facebook.com/media/set/?set=a.235377979934645.1073741825.129393263866451&amp;type=1">The Lost Imperials</a><br />
+<a href="https://www.facebook.com/media/set/?set=a.610437225652307.1073741825.144876818875019&amp;type=1">teh bunneh</a><br />
+<a href="http://smg.photobucket.com/user/Curucar/library/AnomalyCon%202013">Curucar</a><br />
+<a href="https://www.facebook.com/media/set/?set=a.10151506851853805.1073741826.597153804">Stan Yan</a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span> <a class="url fn n" href="https://www.anomalycon.com/author/kseibert/">kseibert</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://www.anomalycon.com/anomalycon-2013/thanks-for-an-amazing-convention/" rel="bookmark"><time class="entry-date published" datetime="2013-04-01T17:22:09+00:00">April 1, 2013</time><time class="updated" datetime="2017-09-17T19:22:44+00:00">September 17, 2017</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.anomalycon.com/category/anomalycon-2013/" rel="category tag">AnomalyCon 2013</a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-144" class="post-144 post type-post status-publish format-standard hentry category-anomalycon-2013">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="https://www.anomalycon.com/anomalycon-2013/welcome-to-anomalycon-2013/" rel="bookmark">Welcome to AnomalyCon 2013!</a></h2>	</header><!-- .entry-header -->
+
+				<div class="entry-summary">
+				<p>Greetings Everyone! The day of the convention has finally arrived!<br />
+If you didn&#8217;t preregister, remember that you can still pick up single day or weekend passes at the con! A full weekend is only $35 for adults and $18 for children aged 6-13!</p>
+<p>One last minute announcement&#8230;due to interesting complications with the hotel, the Grand Tea has relocated from the Ballroom to hospitality suites at room 327&#8211;it still starts at 1pm Sunday! Staff and signs will be around to direct you.</p>
+<p>We&#8217;ll be live photoblogging during the con! Look for piles of pictures on this page, and our dusty tumblr!</p>
+			</div><!-- .entry-summary -->
+		
+	
+	<div class="entry-content">
+		<p>Greetings Everyone! The day of the convention has finally arrived!<br />
+If you didn&#8217;t preregister, remember that you can still pick up single day or weekend passes at the con! A full weekend is only $35 for adults and $18 for children aged 6-13!</p>
+<p>One last minute announcement&#8230;due to interesting complications with the hotel, the Grand Tea has relocated from the Ballroom to hospitality suites at room 327&#8211;it still starts at 1pm Sunday! Staff and signs will be around to direct you.</p>
+<p>We&#8217;ll be live photoblogging during the con! Look for piles of pictures on this page, and our dusty tumblr!<br />
+<a href="http://anomalycon.tumblr.com/">anomalycon.tumblr.com</a></p>
+<p>Wonderful surprises await you around every corner! Stop by opening ceremonies today at 5pm to hear about some secret and surprise contests and events!</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span> <a class="url fn n" href="https://www.anomalycon.com/author/kseibert/">kseibert</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://www.anomalycon.com/anomalycon-2013/welcome-to-anomalycon-2013/" rel="bookmark"><time class="entry-date published" datetime="2013-03-29T06:31:54+00:00">March 29, 2013</time><time class="updated" datetime="2017-09-17T18:49:15+00:00">September 17, 2017</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.anomalycon.com/category/anomalycon-2013/" rel="category tag">AnomalyCon 2013</a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-143" class="post-143 post type-post status-publish format-standard hentry category-anomalycon-2013">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="https://www.anomalycon.com/anomalycon-2013/just-one-week-until-showtime/" rel="bookmark">Just One Week Until Showtime</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		<p>Greetings all! Anomaly Con is just a week away and we are as excited about it as I&#8217;m sure you are. If you have any questions, please be sure to check the tabs at the top of the page because they have been updated with a lot of additional information about the convention. We look forward to seeing you there!</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span> <a class="url fn n" href="https://www.anomalycon.com/author/perry-wilder/">Perry Wilder</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://www.anomalycon.com/anomalycon-2013/just-one-week-until-showtime/" rel="bookmark"><time class="entry-date published" datetime="2013-03-23T07:14:02+00:00">March 23, 2013</time><time class="updated" datetime="2016-03-30T18:09:08+00:00">March 30, 2016</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.anomalycon.com/category/anomalycon-2013/" rel="category tag">AnomalyCon 2013</a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+	<nav class="navigation pagination" role="navigation">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><a class="prev page-numbers" href="https://www.anomalycon.com/page/5/">Previous page</a>
+<a class='page-numbers' href='https://www.anomalycon.com/'><span class="meta-nav screen-reader-text">Page </span>1</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='https://www.anomalycon.com/page/5/'><span class="meta-nav screen-reader-text">Page </span>5</a>
+<span class='page-numbers current'><span class="meta-nav screen-reader-text">Page </span>6</span>
+<a class='page-numbers' href='https://www.anomalycon.com/page/7/'><span class="meta-nav screen-reader-text">Page </span>7</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='https://www.anomalycon.com/page/13/'><span class="meta-nav screen-reader-text">Page </span>13</a>
+<a class="next page-numbers" href="https://www.anomalycon.com/page/7/">Next page</a></div>
+	</nav>
+		</main><!-- .site-main -->
+	</div><!-- .content-area -->
+
+
+	<aside id="secondary" class="sidebar widget-area" role="complementary">
+		<section id="nav_menu-3" class="widget widget_nav_menu"><h2 class="widget-title">AnomalyCon</h2><div class="menu-anomalycon-container"><ul id="menu-anomalycon" class="menu"><li id="menu-item-1194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1194"><a href="https://www.anomalycon.com/anomalycon-2011/">AnomalyCon 2011</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1195"><a href="https://www.anomalycon.com/anomalycon-2011/2011-guests/">2011 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-523"><a href="https://www.anomalycon.com/anomalycon-2012/">AnomalyCon 2012</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1155"><a href="https://www.anomalycon.com/anomalycon-2012/2012-guests/">2012 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-522"><a href="https://www.anomalycon.com/anomalycon-2013/">AnomalyCon 2013</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1156"><a href="https://www.anomalycon.com/anomalycon-2013/2013-guests/">2013 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-526"><a href="https://www.anomalycon.com/anomalycon-2014/">AnomalyCon 2014</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1164"><a href="https://www.anomalycon.com/anomalycon-2014/2014-guests/">2014 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-525"><a href="https://www.anomalycon.com/anomalycon-2015/">AnomalyCon 2015</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1171"><a href="https://www.anomalycon.com/anomalycon-2015/2015-guests/">2015 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-524"><a href="https://www.anomalycon.com/anomalycon-2016/">AnomalyCon 2016</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1176"><a href="https://www.anomalycon.com/anomalycon-2016/2016-guests/">2016 Guests</a></li>
+</ul>
+</li>
+<li id="menu-item-594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-594"><a href="https://www.anomalycon.com/anomalycon-2017/">AnomalyCon 2017</a>
+<ul  class="sub-menu">
+	<li id="menu-item-595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-595"><a href="https://www.anomalycon.com/anomalycon-2017/2017-guests/">2017 Guests</a></li>
+	<li id="menu-item-520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-520"><a href="https://www.anomalycon.com/anomalycon-2017/contests/">2017 Contests</a></li>
+</ul>
+</li>
+<li id="menu-item-509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-509"><a href="https://www.anomalycon.com/mission/">Our Mission</a></li>
+<li id="menu-item-1212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1212"><a href="https://www.anomalycon.com/policies/">Our Policies</a></li>
+</ul></div></section><section id="linkcat-3" class="widget widget_links"><h2 class="widget-title">Social Media</h2>
+	<ul class='xoxo blogroll'>
+<li><a href="https://www.facebook.com/AnomalyCon" rel="me">Facebook</a></li>
+<li><a href="https://plus.google.com/+Anomalycon" rel="me">Google+</a></li>
+<li><a href="https://www.instagram.com/anomalyconofficial/" rel="me">Instagram</a></li>
+<li><a href="http://anomalycon.tumblr.com/" rel="me">tumblr.</a></li>
+<li><a href="https://twitter.com/anomalycon" rel="me">Twitter</a></li>
+<li><a href="http://www.youtube.com/user/AnomalyCon" rel="me">YouTube</a></li>
+
+	</ul>
+</section>
+	</aside><!-- .sidebar .widget-area -->
+
+		</div><!-- .site-content -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+			
+			
+			<div class="site-info">
+								<span class="site-title"><a href="https://www.anomalycon.com/" rel="home">AnomalyCon</a></span>
+				<a href="https://wordpress.org/">Proudly powered by WordPress</a>
+			</div><!-- .site-info -->
+		</footer><!-- .site-footer -->
+	</div><!-- .site-inner -->
+</div><!-- .site -->
+
+<script type='text/javascript' src='https://www.anomalycon.com/wp-content/themes/twentysixteen/js/skip-link-focus-fix.js?ver=20160816'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.anomalycon.com/wp-content/themes/twentysixteen/js/functions.js?ver=20160816'></script>
+<script type='text/javascript' src='https://www.anomalycon.com/wp-includes/js/wp-embed.min.js?ver=4.8.1'></script>
+</body>
+</html>
